@@ -59,28 +59,28 @@ plugins:
 author:
   name   : "Afonso Diela"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "Software Engineer & AI Enthusiast who believes AI can solve road safety issues and save lives"
+  bio    : "Software Engineer & AI Enthusiast who believes AI can solve road safety issues and save lives."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/afondiel/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://linkedin.com/in/afonso-diela/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/muntudiela"
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/afondiel"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://linkedin.com/in/afonso-diela/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/muntudiela"
 defaults:
   # _posts
   - scope:
