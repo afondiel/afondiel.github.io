@@ -21,7 +21,7 @@ github_username: afondiel
 linkedin_username: afonso-diela
 twitter_username: muntudiela
 minimal_mistakes_skin: default
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -58,19 +58,29 @@ plugins:
 
 author:
   name   : "Afonso Diela"
-  avatar : "portfolio/img/profile_800_800.jpg"
+  avatar : "assets/images/bio-photo.jpg"
   bio    : "Software Engineer & AI Enthusiast who believes AI can solve road safety issues and save lives"
   links:
-    - github_username:  afondiel    
-    - linkedin_username: afonso-diela
-    - twitter_username: muntudiela
-
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
 footer:
   links:
-    - github_username:  afondiel    
-    - linkedin_username: afonso-diela
-    - twitter_username: muntudiela
-
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
 defaults:
   # _posts
   - scope:
