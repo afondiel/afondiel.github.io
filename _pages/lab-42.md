@@ -1,8 +1,6 @@
 ---
 title: "Lab-42"
-layout: page
 permalink: /lab-42/
-author_profile: true
 ---
 
 
