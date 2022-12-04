@@ -1,8 +1,7 @@
 ---
-layout: home
-permalink: /
+layout: single
+#permalink: /
 hidden: true
-# canonical : https://afondiel.github.io/home
+canonical_url : https://afondiel.github.io/about
 ---
 
-Hello there ! 
