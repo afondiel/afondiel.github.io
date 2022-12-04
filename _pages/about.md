@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /home/
+permalink: /about/
 ---
 
 
