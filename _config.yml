@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Afonso Diela
+title: Portfolio
+permalink: /about/
+layout: about
+
 email: a.diela.pro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my world ! 
+  Welcome to my lab ! 
 github_username: afondiel
 linkedin_username: afonso-diela
 twitter_username: muntudiela
@@ -61,6 +64,9 @@ author:
   avatar : "assets/images/bio-photo.jpg"
   bio    : "Software Engineer & AI Enthusiast who believes AI can solve road safety issues and save lives."
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:a.diela.pro@gmail.com" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afondiel/"
