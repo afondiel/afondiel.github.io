@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /about/
+permalink: /
 hidden: true
 # canonical : https://afondiel.github.io/home
 ---
