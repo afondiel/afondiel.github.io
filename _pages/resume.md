@@ -3,4 +3,4 @@ title: "Resume"
 permalink: /resume/
 ---
 
-Feel free to download my resume [here](https://drive.google.com/uc?id=10Ni9XgtxOu80pm4TRIpIXh37SwLh9Me7&export=download).
+Feel free to download my resume [here](https://drive.google.com/uc?id=1H_qDgG47bFnvUS8RzEZHUIMbTxHmNpxh&export=download).
