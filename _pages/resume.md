@@ -4,7 +4,6 @@ permalink: /resume/
 ---
 
 ## **WORK EXPERIENCE**
----
 ## **[T&S Engineering](https://www.technologyandstrategy.com/en/) - Software Consultant**
 
 - *Sep 2019 - Nov 2022, Paris, France*
@@ -29,11 +28,11 @@ Missions & Services
 - Bug fixing on different tractor platforms
 - Draft of software specifications
 - Testing et validation on machine
-- *Environment : Agriculture, C, HighTec GCC, PXROS, AurixTricore, CAN, UDS,CANoe, svn*
+<p><em> Environment : Agriculture, C, HighTec GCC, PXROS, AurixTricore, CAN, UDS,CANoe, svn* </em></p>
 
 **[Faurecia](https://www.faurecia.com/en/)** - *Jun 2020 - Jun 2021, Brières, France*
 
-<p><b>Implementation of an innovative system to detect the posture
+<p><b>Software development of a smart seat to detect the posture of
 occupants</b></p>
 
 - Implementation of the posture detection algorithm in C and Python
@@ -42,18 +41,18 @@ occupants</b></p>
 - Testing and evaluation of the static data set model
 - Reporting and evaluation of model results
 - Draft of software specifications
-- *Environment : Automotive, safety, Raspberry Pi, C, Python, Git, Pandas, Scikitlearn, Pickel*
+<p><em>Environment : Automotive, safety, Raspberry Pi, C, Python, Git, Pandas, Scikitlearn, Pickel</em></p>
 
 **[E2CAD](https://e2-cad.com/en/)** - *Sep 2019 - Jun 2020, Eragny, France*
 
 **Basic Sw development on inverter platform for [Renault Group](https://www.renaultgroup.com/en/) & Sw development of a Battery Management System for [Saft](https://www.saftbatteries.com/)**
 - Functional requirements analysis
-- Configuration of I/O and ADC (signals readin
+- Configuration of I/O and ADC (signals readin, filtering and scaling)
 - CAN dbc configuration and signals mapping
 - SPI and smartcoder communication
 - SPI and FPGA communication
 - Unit testing and validation
-- *Environment : Automotive, C, Eclipse-Tasking Tricore, Debugger UDE, PCAN, Oscilloscope HAMEG HMO, CANdb++, AURIX Tricore 2G , SPC584B*
+<p><em>Environment : Automotive, C, Eclipse-Tasking Tricore, Debugger UDE, PCAN, Oscilloscope HAMEG HMO, CANdb++, AURIX Tricore 2G , SPC584B</em></p>
 
 ---
 ## **[Valeo](https://www.valeo.com/en/)** - **Software Engineer Apprentice**
@@ -74,7 +73,7 @@ motor(rotor position) of a new electric supercharger</p>
 - Documentation of the functional requirement of the tool
 - Implementation of BSW module in C programming
 - Documentation of the user manual of the tool
-- *Environment: Automotive, Perl, C, CAPL , XML, CAN, FlexRay,CANalyzer, BUSMASTER, AURIX Tricore, AUTOSAR, ISO26262, OSEK, Inverter, eSC*
+<p><em>Environment: Automotive, Perl, C, CAPL , XML, CAN, FlexRay, CANalyzer, BUSMASTER, AURIX Tricore, AUTOSAR, ISO26262, OSEK, Inverter, eSC</em></p>
 
   
 ## **EDUCATION**   
@@ -94,6 +93,37 @@ of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire
 - [The Complete Self-Driving Car Course - Applied Deep Learning
 Computing Certificate - Udemy](https://www.udemy.com/certificate/UC-738156af-8b44-419b-8222-db8cf3d8ea7a/)
   - Issued Mar 2021
+
+## **SKILLS**
+Computer Science : 
+- C/C++, Perl, Java
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Design Pattern, UML
+
+Data Science
+- R, SQL (MySQL, IBM DB2 )
+- Machine Learning (Scikitlearn)
+  - Supervised
+  - Unsupervised
+  - Reinforcement
+- Deep Learning (Keras, TF, PyTorch)
+  - Neural Network : RNN, CNN, SLTM ...
+- Computer Vision 
+- Natural Language Processing (NLP)
+
+Embedded : 
+- Linux, RTOS, VXWorks
+- Raspiberry Pi, Arduino, **[Jetson Nano](https://www.nvidia.com/fr-fr/autonomous-machines/embedded-systems/jetson-nano/)**
+- μC & Drivers : STM32, PIC32, AURIX
+- Bus : CAN, FlexRay, J1939, SPI, I2C, RS232
+- Sensors
+  
+Project Management
+- Git, svn, GitHub, SourceTree
+- V Cycle , Agile(Kanban, SAFe)
+
+Standards
+  - MISRA, AUTOSAR, ISO2626, UDS
 
 
 >[Download resume](https://drive.google.com/uc?id=1H_qDgG47bFnvUS8RzEZHUIMbTxHmNpxh&export=download)
