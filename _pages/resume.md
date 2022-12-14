@@ -8,7 +8,7 @@ permalink: /resume/
 ## **WORK EXPERIENCE**
 ### **[T&S Engineering](https://www.technologyandstrategy.com/en/) - Software Consultant**
 
-- *Sep 2019 - Nov 2022, Paris, France*
+- *Sep 2019 - Present, Paris, France*
 
 <!--
 <span style="color:green;font-weight:700;font-size:20px">
