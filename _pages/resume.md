@@ -3,8 +3,10 @@ title: "Resume"
 permalink: /resume/
 ---
 
+>[Download resume](https://drive.google.com/uc?id=1H_qDgG47bFnvUS8RzEZHUIMbTxHmNpxh&export=download)
+
 ## **WORK EXPERIENCE**
-## **[T&S Engineering](https://www.technologyandstrategy.com/en/) - Software Consultant**
+### **[T&S Engineering](https://www.technologyandstrategy.com/en/) - Software Consultant**
 
 - *Sep 2019 - Nov 2022, Paris, France*
 
@@ -17,7 +19,6 @@ Software Consultant 2019 - 2022, Paris, France
 Missions & Services
 </span>
 
----
 **[AGCO, corp](https://www.agcocorp.fr/)** - *Jun 2021 - Sep 2022, Beauvais, France*
 
 **Software development on serial products and new projects**
@@ -54,8 +55,7 @@ occupants</b></p>
 - Unit testing and validation
 <p><em>Environment : Automotive, C, Eclipse-Tasking Tricore, Debugger UDE, PCAN, Oscilloscope HAMEG HMO, CANdb++, AURIX Tricore 2G , SPC584B</em></p>
 
----
-## **[Valeo](https://www.valeo.com/en/)** - **Software Engineer Apprentice**
+### **[Valeo](https://www.valeo.com/en/)** - **Software Engineer Apprentice**
 - *Sep 2015 - Sep 2018, Cergy, France*
 
 <p>Implementation of a tool to automate the validation tests of the CAN and
@@ -97,12 +97,12 @@ Computing Certificate - Udemy](https://www.udemy.com/certificate/UC-738156af-8b4
 ## **SKILLS**
 Computer Science : 
 - C/C++, Perl, Java
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python : Pandas, NumPy, Scikitlearn, Keras, TF, PyTorch, Matplotlib, Seaborn
 - Design Pattern, UML
 
-Data Science
+Data Science & AI
 - R, SQL (MySQL, IBM DB2 )
-- Machine Learning (Scikitlearn)
+- Machine Learning
   - Supervised
   - Unsupervised
   - Reinforcement
@@ -126,6 +126,20 @@ Standards
   - MISRA, AUTOSAR, ISO2626, UDS
 
 
->[Download resume](https://drive.google.com/uc?id=1H_qDgG47bFnvUS8RzEZHUIMbTxHmNpxh&export=download)
-
-
+## **Extras**
+- Languages
+  - French: C2
+  - English : C1 - Toeic – 810 (2018)
+  - Portuguese: C2
+  - German : Basics and still learning
+- Sports and Interests
+  - Triathlon (amator)
+  - Chess, Basketball, Soccer
+  - Lecture / Guitar- improvisation
+  
+## **Blog & Projects**
+- Blogs
+  - [AI & Tech](https://afondiel.github.io/blog/)
+  - [Univers electro-flash - Automotive - fr](http://www.univers-eflash.com/)
+- Projects
+  - [Lab-42](https://afondiel.github.io/lab-42/)

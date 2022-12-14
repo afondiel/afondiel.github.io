@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Afonso Diela"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "Software Engineer & Data Scientist. Creative, Constant-learner, Self-taught."
+  bio    : "Software Engineer & Data Scientist. Creative, Lifelong-learner, Self-taught."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
