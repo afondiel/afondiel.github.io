@@ -119,6 +119,7 @@ Embedded :
 - Sensors
   
 Project Management
+- Gantt Project
 - Git, svn, GitHub, SourceTree
 - V Cycle , Agile(Kanban, SAFe)
 
@@ -135,11 +136,11 @@ Standards
 - Sports and Interests
   - Triathlon (amator)
   - Chess, Basketball, Soccer
-  - Lecture / Guitar- improvisation
+  - Lecture, Guitar- improvisation
   
 ## **Blog & Projects**
 - Blogs
   - [AI & Tech](https://afondiel.github.io/blog/)
-  - [Univers electro-flash - Automotive - fr](http://www.univers-eflash.com/)
+  - [Univers electro-flash - Automotive [fr]](http://www.univers-eflash.com/)
 - Projects
   - [Lab-42](https://afondiel.github.io/lab-42/)
