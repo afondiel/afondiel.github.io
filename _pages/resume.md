@@ -84,8 +84,7 @@ of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire
 
 ## **CERTIFICATE**
 - [Self-Driving Cars Specialization - Coursera](https://coursera.org/share/2301fdb23da181d1afafd30529a736d5)
-  - On going
-  - 
+  - On going ...
 - [Artificial Intelligence A-Z™: Learn How To Build An AI - Udemy](https://www.udemy.com/certificate/UC-660e757a-4de9-4a7d-9e12-84c361c18591/) 
   - Issued Nov 2022
 - [IBM Data Science Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/GRC4DCMSV5PH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof) 
