@@ -83,8 +83,9 @@ motor(rotor position) of a new electric supercharger</p>
 of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire-de-technologie/nos-parcours-de-but/geii-reseaux-automatismes-nouvelles-technologies-/genie-electrique-et-informatique-industrielle-34554.kjsp)
 
 ## **CERTIFICATE**
-- [Self-Driving Cars Specialization - Coursera](https://www.coursera.org/specializations/self-driving-cars)
-  - On going 
+- [Self-Driving Cars Specialization - Coursera](https://coursera.org/share/2301fdb23da181d1afafd30529a736d5)
+  - On going
+  - 
 - [Artificial Intelligence A-Z™: Learn How To Build An AI - Udemy](https://www.udemy.com/certificate/UC-660e757a-4de9-4a7d-9e12-84c361c18591/) 
   - Issued Nov 2022
 - [IBM Data Science Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/GRC4DCMSV5PH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof) 
@@ -133,7 +134,7 @@ Standards
   - English : C1 - Toeic – 810 (2018)
   - Portuguese: C2
   - German : Basics and still learning
-- Sports and Interests
+- Hobbies and Interests
   - Triathlon (amator)
   - Chess, Basketball, Soccer
   - Lecture, Guitar- improvisation
