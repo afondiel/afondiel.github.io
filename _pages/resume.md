@@ -76,13 +76,13 @@ motor(rotor position) of a new electric supercharger</p>
 <p><em>Environment: Automotive, Perl, C, CAPL , XML, CAN, FlexRay, CANalyzer, BUSMASTER, AURIX Tricore, AUTOSAR, ISO26262, OSEK, Inverter, eSC</em></p>
 
   
-## **EDUCATION**   
+## EDUCATION  
 - Electrical engineering & Industrial computing – [ENSEA](https://www.ensea.fr/en) – Cergy, France
   - Apprenticeship Cycle
 - Electrical Engineering and Applied Computing - [Institute of Technology
 of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire-de-technologie/nos-parcours-de-but/geii-reseaux-automatismes-nouvelles-technologies-/genie-electrique-et-informatique-industrielle-34554.kjsp)
 
-## **CERTIFICATE**
+## CERTIFICATE
 - [Self-Driving Cars Specialization - Coursera](https://coursera.org/share/600753f1d55bf984d95fc15e957d626a)
   - Issued Jun 2023
 - [Artificial Intelligence A-Z™: Learn How To Build An AI - Udemy](https://www.udemy.com/certificate/UC-660e757a-4de9-4a7d-9e12-84c361c18591/) 
@@ -94,53 +94,59 @@ of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire
 Computing Certificate - Udemy](https://www.udemy.com/certificate/UC-738156af-8b44-419b-8222-db8cf3d8ea7a/)
   - Issued Mar 2021
 
-## **SKILLS**
-Computer Science : 
-- C/C++, Perl, Java
-- Python : Pandas, NumPy, Scikitlearn, Keras, TF, PyTorch, Matplotlib, Seaborn
+## SKILLS
+Computer Science
+- C/C++, Rust, Perl, Java
+- Python : NumPy, Pandas, Matplotlib, Seaborn
 - Design Pattern, UML
 
-Data Science & AI
+AI & Robotics
 - R, SQL (MySQL, IBM DB2 )
-- Machine Learning
+- Machine Learning: Scikitlearn
   - Supervised
   - Unsupervised
   - Reinforcement
-- Deep Learning (Keras, TF, PyTorch)
-  - Neural Network : RNN, CNN, SLTM ...
+- Deep Learning 
+  - Framework: Keras, TF, PyTorch, Onnx
+  - Neural Network: RNN, CNN, SLTM ...
 - Computer Vision 
 - Natural Language Processing (NLP)
+- Prompt Engineering
+- Robotics
+  - ROS, Carla Simulator
 
-Embedded : 
+Embedded 
 - Linux, RTOS, VXWorks
 - Raspiberry Pi, Arduino, **[Jetson Nano](https://www.nvidia.com/fr-fr/autonomous-machines/embedded-systems/jetson-nano/)**
 - μC & Drivers : STM32, PIC32, AURIX
 - Bus : CAN, FlexRay, J1939, SPI, I2C, RS232
-- Sensors
+- Sensors : Cameras, LiDAR, RADAR, IMU, GNSS/GPS, Odometry
   
 Project Management
 - Gantt Project
 - Git, svn, GitHub, SourceTree
-- V Cycle , Agile(Kanban, SAFe)
+- V Cycle , Agile (Kanban, Scum, SAFe)
 
 Standards
-  - MISRA, AUTOSAR, ISO2626, UDS
+  - AUTOSAR, ISO2626, J3016, MISRA, UDS
 
 
-## **Extras**
+## Soft Skills : Excellent oral and written communication
 - Languages
-  - French: C2
   - English : C1 - Toeic – 810 (2018)
+  - French: C2
   - Portuguese: C2
   - German : Basics and still learning
-- Hobbies and Interests
-  - Triathlon (amator)
-  - Chess, Basketball, Soccer
-  - Lecture, Guitar- improvisation
+## Mad Skills
+  - Triathlon (amator), Chess, Guitar - improvisation
+## Hobbies and Interests
+  - Books, Basketball, Soccer
   
-## **Blog & Projects**
+## Blog & Projects
 - Blogs
-  - [AI & Tech](https://afondiel.github.io/blog/)
-  - [Univers electro-flash - Automotive [fr]](http://www.univers-eflash.com/)
+  - [Personal Research Insights on AI & Robotics](https://afondiel.github.io/blog/)
+  - [Univers electro-flash - Smart & Sustainable Transportation [french]](http://www.univers-eflash.com/)
+  - [Medium - Smart & Sustainable Transportation [english]](https://medium.com/@muntudiela)
+
 - Projects
   - [Lab-42](https://afondiel.github.io/lab-42/)
