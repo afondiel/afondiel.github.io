@@ -5,10 +5,10 @@ layout: home
 ---
 
 
-### Hello there ! 
+Hello,
 
-My name is Afonso Diela. I am a Software Engineer working for [Technology & Strategy](https://www.technologyandstrategy.com/) with 5 years of experience in software development and embedded systems in Automotive Indrustry.
+My name is Afonso Diela. I am a Software Engineer working for [Technology & Strategy](https://www.technologyandstrategy.com/) with over 5 years' experience in software development and embedded systems in Automotive Industry. 
 
-Passionate about cars and motorsport, new technologies with a strong interest in data science and Artificial Intelligence.
+Passionate about automobiles and motorsports, new technologies with a strong interest in artificial intelligence and robotics.
 
-I am excited to work on innovative projects in the automotive industry such as: electric vehicles, ADAS systems and self-driving cars. 
+I aspire to work on innovative automotive projects with the aim of improving road safety, and making driving more sustainable, enjoyable and inclusive. This includes advanced driver assistance systems (ADAS) and autonomous vehicles.
