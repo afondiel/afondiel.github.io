@@ -137,8 +137,10 @@ Standards
   - French: C2
   - Portuguese: C2
   - German : Basics and still learning
+
 ## Mad Skills
   - Triathlon (amator), Chess, Guitar - improvisation
+
 ## Hobbies and Interests
   - Books, Basketball, Soccer
   
