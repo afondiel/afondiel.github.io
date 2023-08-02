@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello,
 
-My name is Afonso Diela. I am a Software Engineer working for [Technology & Strategy](https://www.technologyandstrategy.com/) with Over 5 years' experience in software development and embedded systems in Automotive Industry. 
+My name is Afonso Diela. I am a Software Engineer working for [Technology & Strategy](https://www.technologyandstrategy.com/) with over 5 years' experience in software development and embedded systems in Automotive Industry. 
 
 Passionate about automobiles and motorsports, new technologies with a strong interest in artificial intelligence and robotics.
 
