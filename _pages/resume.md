@@ -75,9 +75,8 @@ motor(rotor position) of a new electric supercharger</p>
 - Documentation of the user manual of the tool
 <p><em>Environment: Automotive, Perl, C, CAPL , XML, CAN, FlexRay, CANalyzer, BUSMASTER, AURIX Tricore, AUTOSAR, ISO26262, OSEK, Inverter, eSC</em></p>
 
-  
 ## EDUCATION  
-- Electrical engineering & Industrial computing – [ENSEA](https://www.ensea.fr/en) – Cergy, France
+- Electrical engineering & Industrial computing – [ENSEA](https://www.ensea.fr/en) – Paris, Ile-de-France, France
   - Apprenticeship Cycle
 - Electrical Engineering and Applied Computing - [Institute of Technology
 of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire-de-technologie/nos-parcours-de-but/geii-reseaux-automatismes-nouvelles-technologies-/genie-electrique-et-informatique-industrielle-34554.kjsp)
