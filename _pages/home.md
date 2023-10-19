@@ -4,11 +4,17 @@ permalink: /
 hidden: true
 ---
 
-Hello,
+Hello, I'm Afonso Diela, a passionate Software Engineer currently based in Paris, France. With over 5 years of experience in the embedded systems within the automotive industry.
 
-My name is Afonso Diela. I am a Software Engineer working for [Technology & Strategy](https://www.technologyandstrategy.com/), with over 5 years' experience in software development and embedded systems in Automotive Industry. 
+I am passionate about cars and [motorsports](https://twitter.com/muntudiela/status/1683560038097383425/photo/1), but above all I like to use technology to solve real-world problems. I am particularly interested in artificial intelligence and robotics applications in smart mobility.
 
-Passionate about automobiles and motorsports, new technologies with a strong interest in **Artificial Intelligence** and **Robotics**.
+I aspire to combine my experience in automotive software development with the latest expertise I've gained from the prestigious University of Toronto's self-driving car specialization.
 
-I aspire to work on innovative automotive projects with the aim of improving road safety, and making driving more sustainable, enjoyable and inclusive. This includes advanced driver assistance systems (ADAS) and autonomous vehicles.
+I am eager to use my skills and experience to help companies develop and implement innovative smart mobility solutions, to make transportation safer, sustainable, and more accessible for everyone.
+
+I am also interested in working on mobility projects that focus on improving lives of the people with disabilities and seniors. 
+
+So, if you are a **nonprofit organization in healthcare** aiming to help people with disabilities move through the world safely. Or, if you are a **nonprofit organization in road or driving safety** aiming to improve road safety and prevent road fatalities. I'm offering a FREE Service and Consultations.  
+
+I'd be glad to hear about the projects and the challenges you are facing. Let's Connect ☕
 
