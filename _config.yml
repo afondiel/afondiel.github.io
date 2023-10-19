@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Afonso Diela"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "Software Engineer. Creative, Lifelong-learner, Flexible."
+  bio    : "Software Engineer @diesimo. Creative, Lifelong-learner, Flexible."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
