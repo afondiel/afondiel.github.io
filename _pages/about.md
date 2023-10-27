@@ -13,7 +13,7 @@ I aspire to combine my experience in automotive software development with cuttin
 
 I am eager to use my skills and experience to help startups & companies develop and implement innovative <a href="https://github.com/diesimo-ai" target="_blank"> smart mobility solutions</a>, to make transportation safer, sustainable, and more accessible for everyone.
 
-I'm particularly drawn to mobility projects that focus on improving the lives of people with disabilities and seniors. If you're a nonprofit organization in healthcare or road safety interested in working with me to develop innovative smart mobility solutions, please contact me today for a free consultation.
+I'm particularly drawn to mobility projects that focus on improving the lives of people with disabilities and seniors. If you're a nonprofit organization in **healthcare** or **road safety** interested in working with me to develop innovative smart mobility solutions, please contact me today for a **free** consultation.
 
 I’d be glad to hear about the projects and the challenges your team is facing and discuss potential collaborations. Let’s Connect ☕
 
