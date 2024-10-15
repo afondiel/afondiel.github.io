@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: diela.ai # alias(diela.io/muntu.ai/muntu.io)
+title: Afonso Diela # alias(diela.io/muntu.ai/muntu.io)
 email: a.diela.pro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Afonso Diela's Portfolio! 
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Afonso Diela"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "AI & Robotics Engineer. Striving to make mobility accessible to all @diesimo."
+  bio    : "AI & Robotics Engineer: Vision & Perception @diesimo."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
