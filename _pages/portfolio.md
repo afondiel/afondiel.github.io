@@ -1,6 +1,6 @@
 ---
-title: "Lab-42"
-permalink: /lab-42/
+title: "Portfolio"
+permalink: /portfolio/
 ---
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/my-lab)
