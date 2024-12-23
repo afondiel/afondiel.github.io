@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Afonso Diela"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "Edge AI/ML Software Engineer: Vision & Perception"
+  bio    : "Edge AI/ML Software Engineer."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
