@@ -76,8 +76,8 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/afonso-diela/"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter-square"
+    - label: "X(Twitter)"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://twitter.com/muntudiela"
 footer:
   links:
@@ -87,8 +87,8 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/afonso-diela/"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter-square"
+    - label: "X(Twitter)"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://twitter.com/muntudiela"
 defaults:
   # _posts
