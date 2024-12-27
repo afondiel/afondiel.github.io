@@ -3,21 +3,95 @@ title: "About"
 permalink: /about/
 ---
 
-Hello, 
+Hello, I am Afonso Diela 🤖
 
-I’m Afonso Diela, a passionate Software Engineer currently based in Paris, France. With over 5 years of experience in the embedded systems within the automotive industry.
+Innovative Edge AI/ML Software Engineer Specializing in Vision & Perception for [autonomous systems](https://eda.europa.eu/what-we-do/eu-policies/autonomous-systems), such as Robotics, Self-Driving Cars, UAV, ...,.
 
-My work is driven by my greatest passions: automobiles, <a href="https://twitter.com/muntudiela/status/1683560038097383425/photo/1" target="_blank">motorsports</a> and new technologies. I like to leverage technology to solve real-world problems and create positive social impact, and I am currently interested in artificial intelligence and robotics applications in smart mobility and education.
+With over 5 years of experience in embedded systems for automotive applications, I have transitioned into a consultancy role, focusing on delivering cutting-edge **Edge AI** and Machine Learning solutions for real-world applications across intelligent industries.
 
-I aspire to combine my experience in automotive software development with cutting-edge insights I’ve gained from the University of Toronto’s <a href="https://medium.com/@muntudiela/the-top-5-skills-i-learned-from-the-university-of-toronto-self-driving-cars-specialization-2023-6470b36fe7ed" target="_blank">Self-Driving Cars Specialization</a>, in order to implement smart mobility solutions to help shape the future of transportation.
+Leveraging my robust software development background and specialized training in self-driving technologies from the University of Toronto, I develop end-to-end computer vision stack that enhance the capabilities of autonomous systems.
 
-I am eager to use my skills and experience to help startups & companies develop and implement innovative <a href="https://github.com/diesimo-ai" target="_blank"> smart mobility solutions</a>, to make transportation safer, sustainable, and more accessible for everyone.
+My mission is to collaborate with forward-thinking organizations to implement state-of-the-art AI and Computer Vision solutions, addressing complex engineering challenges and driving innovation in the future of industry.
 
-I'm particularly drawn to mobility projects that focus on improving the lives of people with disabilities and seniors. If you're a nonprofit organization in **healthcare** or **road safety** interested in working with me to develop innovative smart mobility solutions, please contact me today for a **free** consultation.
+Let's connect to explore how my expertise can contribute to your next groundbreaking project.
 
-I’d be glad to hear about the projects and the challenges your team is facing and discuss potential collaborations. Let’s Connect ☕
+<div style="margin-top: 20px; text-align: center;">
+    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
+    <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
+</div>
 
-Cheers
+## Interests
 
-Afonso
+### Passion for Cognitive Science and AI
 
+- **Chess** ♟
+
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="max-width: 600px;">
+    <img src="../assets/images/chess.jpg" alt="Chess" style="width: 100%; height: 50%;"><p> <a href="https://www.echecsplus.fr">Echecs Plus Club - ~2013, Cherbourg </a></p>
+  </div>
+</div>
+<!-- ![Chess Image](../assets/images/chess.jpg) -->
+
+I discovered chess in high school, which sparked my interest in strategic thinking and problem-solving. This passion naturally led me into the world of AI, especially after learning about the historic match between [Deep Blue and Garry Kasparov](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov), which showcased the potential of AI in complex decision-making.
+
+- **Robotics**
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<div style="display: flex; justify-content: center; align-items: center; gap: 1px; flex-wrap: wrap;">
+  <div style="flex: 1 1 100%; max-width: 600px; text-align: center;">
+    <iframe width="100%" height="50%" src="https://www.youtube.com/embed/m303vg0Jp2Q" frameborder="0" allowfullscreen></iframe>
+    <p>Final round</p>
+  </div>
+  <div style="display: flex; flex: 1 1 100%; max-width: 600px; justify-content: center; gap: 10px;">
+    <a href="../assets/images/ubuntu-team_0.jpg" data-lightbox="gallery" data-title="Robotics Team Image 1">
+      <img src="../assets/images/ubuntu-team_0.jpg" alt="Robotics Image 1" style="width: 100%; height: auto;">
+      <p>UBUNTU Team: Myself, J. Arné, A. Konaté</p>
+    </a>
+    <a href="../assets/images/ubuntu-team_1.jpg" data-lightbox="gallery" data-title="Robotics Team Image 2">
+      <img src="../assets/images/ubuntu-team_1.jpg" alt="Robotics Image 2" style="width: 100%; height: auto;">
+      <p>Prize Ceremony - 4th of 26.</p>
+    </a>
+  </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+My journey into robotics began at the [France National Robotics Championship](https://www-festivalrobotiquecachan-fr.translate.goog/?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp), where my team and I built a fully [autonomous robot](https://github.com/afondiel/computer-science-notebook/blob/master/core/ai-ml/docs/geii/UBUNTU-Vierzon-Cherbourg-2014-Julien-ARNE-en.pdf) using [odometry](https://modernrobotics.northwestern.edu/nu-gm-book-resource/13-4-odometry/). This experience sparked my passion for AI and robotics, driving me to explore and develop innovative solutions in the field.
+
+- **Languages**
+I am multilingual, speaking more than three languages, which enhances my ability to collaborate in diverse, international environments.
+
+### Automotive & Motorsport
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; flex: 1 1 100%; max-width: 600px; justify-content: center; gap: 10px;">
+    <a href="../assets/images/gp_france_22_0.jpeg" data-lightbox="gallery" data-title="F1 Grand Prix Image 1">
+      <img src="../assets/images/gp_france_22_0.jpeg" alt="Robotics Image 1" style="width: 100%; height: auto;">
+    </a>
+    <a href="../assets/images/gp_france_22_1.jpeg" data-lightbox="gallery" data-title="F1 Grand Prix Image 2">
+      <img src="../assets/images/gp_france_22_1.jpeg" alt="Robotics Image 2" style="width: 100%; height: auto;">
+    </a>
+  </div>
+  <p>F1 <a href="https://www.echecsplus.fr">GRAND PRIX DE FRANCE 2022</a> at <a href="https://www.circuitpaulricard.com/en/events/formula-1-french-grand-prix-22-24-july-en">Paul Ricard, Le Castellet</a></p>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+My passion for the automotive industry and motorsports drives my work in developing advanced AI solutions for smart mobility and autonomous vehicles.
+
+### Ultrarunner ⚡️
+
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="max-width: 600px;">
+    <img src="../assets/images/super-muntu.jpg" alt="Super Muntu" style="width: 100%; height: 50%;">
+  </div>
+</div>
+<!-- ![Ultrarunning Image](../assets/images/super-muntu.jpg) -->
+
+Endurance sports, like ultrarunning, swimming have taught me resilience and perseverance, skills that are invaluable in solving complex problems in both personal and professional life.
+
+## Miscellaneous
+
+- **[2016 March]** [Authored a technical survey on "Strong AI" (AGI) for my undergrad year at ENSEA: prediction, reflecting on the advancements and future of artificial intelligence.](https://github.com/afondiel/computer-science-notebook/blob/master/core/ai-ml/docs/strong-ai-technical-report-undergrad-ensea-2016/strong_ai_technical_survey_undergrads_ensea_2016_report_last_en_deepl_translate_v0.pdf)
+  - [Presentation - Technical Survey on Strong AI "AGI" (Afonso Diela)](https://github.com/afondiel/computer-science-notebook/blob/master/core/ai-ml/docs/strong-ai-technical-report-undergrad-ensea-2016/strong_ai_technical_survey_undergrads_ensea_2016_slides_last_en.pdf)
+- **[2014 July]** [Technical Report UBUNTU from the 2014 French National Robotics Championship (GEII)](https://github.com/afondiel/computer-science-notebook/blob/master/core/ai-ml/docs/geii/UBUNTU-Vierzon-Cherbourg-2014-Julien-ARNE-en.pdf)
