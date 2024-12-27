@@ -1,8 +1,8 @@
 ---
 title: "Welcome to my blog!"
-date: 2022-12-04T15:34:30-04:00
+date: 2022-12-04
 categories:
-  - blog
+  - posts
 ---
 
 You'll find my blog post here in the future thanks for being patient.
