@@ -20,7 +20,7 @@ email: a.diela.pro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Afonso Diela's Portfolio! 
 # baseurl: "/about" # the subpath of your site, e.g. /blog
-url: "https://afondiel.github.io/about" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://afondiel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: afondiel
 linkedin_username: afonso-diela
 twitter_username: muntudiela
@@ -35,12 +35,12 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
-breadcrumbs: true  # disabled by default
+breadcrumbs: true  # disabled by default: Home/...
 # paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:  # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -63,10 +63,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Default Author: Me => _data/authors.yml
 author:
   name   : "Afonso Diela"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "Edge AI/ML Software Engineer."
+  bio    : "I bring advanced AI solutions at the Edge."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -100,12 +101,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: true
       share: true
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
