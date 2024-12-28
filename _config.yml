@@ -52,11 +52,19 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
 breadcrumbs: true  # disabled by default: Home/...
-paginate_path: /page:num/
 # timezone:  # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# pagination (v2 config)
+pagination:
+  enabled: true
+  per_page: 5  # This replaces your current 'paginate: 5'
+  permalink: '/page/:num/'
+  title: ':title - Page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 include: 
   - _pages
