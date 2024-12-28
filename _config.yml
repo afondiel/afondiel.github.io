@@ -28,6 +28,7 @@ twitter_username: muntudiela
 # minimal_mistakes_skin: default
 minimal_mistakes_skin: air
 search: true
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 
 # SEO Related
