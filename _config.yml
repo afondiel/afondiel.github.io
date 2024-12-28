@@ -49,7 +49,7 @@ analytics:
 
 # Adsense
 adsense:
-  client_id: "ca-pub-9956095378904658"
+  client_id: 
   # auto pub
   auto_ads: # false (default), true
   # manual
