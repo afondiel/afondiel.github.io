@@ -67,13 +67,13 @@ I am multilingual, speaking more than three languages, which enhances my ability
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="display: flex; flex: 1 1 100%; max-width: 600px; justify-content: center; gap: 10px;">
     <a href="../assets/images/gp_france_22_0.jpeg" data-lightbox="gallery" data-title="F1 Grand Prix Image 1">
-      <img src="../assets/images/gp_france_22_0.jpeg" alt="Robotics Image 1" style="width: 100%; height: auto;">
+      <img src="../assets/images/gp_france_22_0.jpeg" alt="French GP 1" style="width: 100%; height: auto;">
     </a>
     <a href="../assets/images/gp_france_22_1.jpeg" data-lightbox="gallery" data-title="F1 Grand Prix Image 2">
-      <img src="../assets/images/gp_france_22_1.jpeg" alt="Robotics Image 2" style="width: 100%; height: auto;">
+      <img src="../assets/images/gp_france_22_1.jpeg" alt="French GP 2" style="width: 100%; height: auto;">
     </a>
   </div>
-  <p>F1 <a href="https://www.echecsplus.fr">GRAND PRIX DE FRANCE 2022</a> at <a href="https://www.circuitpaulricard.com/en/events/formula-1-french-grand-prix-22-24-july-en">Paul Ricard, Le Castellet</a></p>
+  <p>F1 <a href="https://www.formula1.com/en/racing/2022/france">GRAND PRIX DE FRANCE 2022</a> at <a href="https://www.circuitpaulricard.com/en/events/formula-1-french-grand-prix-22-24-july-en">Paul Ricard, Le Castellet</a></p>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
