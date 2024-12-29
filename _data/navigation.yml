@@ -5,10 +5,10 @@ main:
   #   url: /services/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Resume"
-    url: /resume/
   - title: "Blog"
     url: /posts/
+  - title: "Resume"
+    url: /resume/
   - title: "About"
     url: /about/
   # - title: "Contact"
