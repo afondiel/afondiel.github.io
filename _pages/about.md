@@ -59,6 +59,7 @@ I discovered chess in high school, which sparked my interest in strategic thinki
 My journey into robotics began at the [France National Robotics Championship](https://www-festivalrobotiquecachan-fr.translate.goog/?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp), where my team and I built a fully [autonomous robot](https://github.com/afondiel/computer-science-notebook/blob/master/core/ai-ml/docs/geii/UBUNTU-Vierzon-Cherbourg-2014-Julien-ARNE-en.pdf) using [odometry](https://modernrobotics.northwestern.edu/nu-gm-book-resource/13-4-odometry/). This experience sparked my passion for AI and robotics, driving me to explore and develop innovative solutions in the field.
 
 - **Languages**
+
 I am multilingual, speaking more than three languages, which enhances my ability to collaborate in diverse, international environments.
 
 ### Automotive & Motorsport
