@@ -17,11 +17,11 @@ pagination:
       <a href="https://huggingface.co/afondiel" target="_blank">
         <img src="assets/images/hf-logo.svg" alt="Hugging Face" style="width: 40px; height: 40px; margin-top: -10px;">
       </a>
+      <a href="https://twitter.com/muntudiela" target="_blank">
+        <i class="fa-brands fa-square-x-twitter" style="font-size: 30px; color: #000000;"></i>
+      </a>
       <a href="https://linkedin.com/in/afonso-diela" target="_blank">
         <i class="fab fa-linkedin" style="font-size: 30px; color: #0077B5;"></i>
-      </a>
-      <a href="https://twitter.com/muntudiela" target="_blank">
-        <i class="fab fa-twitter" style="font-size: 30px; color: #1DA1F2;"></i>
       </a>
       <a href="mailto:a.diela.pro@gmail.com">
         <i class="fas fa-envelope" style="font-size: 30px; color: #D44638;"></i>
