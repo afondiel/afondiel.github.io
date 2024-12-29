@@ -6,7 +6,7 @@ pagination:
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="../assets/images/profile_800_800.jpg" alt="Profile Image" style="width: 200px; height: 200px; border-radius: 50%;">
+  <img src="../assets/images/profile_800_800.jpg" alt="Profile Image" style="width: 180px; height: 180px; border-radius: 50%;">
   <div>
     <h2 style="margin: 0;">Afonso Diela</h2>
     <p style="margin: 5px 0; color: #666;">Edge AI/ML Software Engineer.</p>
