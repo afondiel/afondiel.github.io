@@ -3,17 +3,16 @@ title: "About"
 permalink: /about/
 ---
 
-Hello, I am Afonso Diela 🤖
+#### — Afonso Diela 🤖  
 
-Innovative Edge AI/ML Software Engineer Specializing in Vision & Perception for [autonomous systems](https://eda.europa.eu/what-we-do/eu-policies/autonomous-systems), such as Robotics, Self-Driving Cars, UAV, ...,.
+I am an **Edge AI/ML Software Engineer** specializing in Vision & Perception for [autonomous systems](https://eda.europa.eu/what-we-do/eu-policies/autonomous-systems), including robotics, self-driving cars, and UAVs.  
 
-With over 5 years of experience in embedded systems for automotive applications, I have transitioned into a consultancy role, focusing on delivering cutting-edge **Edge AI** and Machine Learning solutions for real-world applications across intelligent industries.
+With over **5 years of experience** in embedded systems for automotive applications, I now work as a consultant, delivering **cutting-edge Edge AI and Machine Learning solutions** to solve real-world challenges across various industries.  
 
-Leveraging my robust software development background and specialized training in self-driving technologies from the University of Toronto, I develop end-to-end computer vision stack that enhance the capabilities of autonomous systems.
+I hold a **Master’s in Electrical and Computer Engineering** from [ENSEA](https://www.ensea.fr/) (France), with a major in Embedded Systems, and have specialized training in self-driving technologies from the **University of Toronto**. My expertise lies in developing **end-to-end computer vision stacks** that enhance the capabilities of autonomous systems.  
 
-My mission is to collaborate with forward-thinking organizations to implement state-of-the-art AI and Computer Vision solutions, addressing complex engineering challenges and driving innovation in the future of industry.
+My mission: to collaborate with forward-thinking organizations, implementing **state-of-the-art AI and Computer Vision solutions** to tackle complex engineering challenges and shape the future of intelligent systems.  
 
-Let's connect to explore how my expertise can contribute to your next groundbreaking project.
 
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
