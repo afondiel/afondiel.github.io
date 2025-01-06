@@ -32,7 +32,7 @@ pagination:
 
 <div style="text-align: center; margin-top: 10px;"> 
   <p style="font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;">
-    Delivering cutting-edge AI and computer vision solutions for autonomous systems.
+  Bringing cutting-edge AI and Computer Vision solutions to the Edge.
   </p>
   <div style="margin-top: 20px;"> 
     <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
