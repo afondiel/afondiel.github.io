@@ -1,0 +1,5 @@
+torch 
+torchinfo
+qai-hub
+qai_hub_models
+memory_profiler
