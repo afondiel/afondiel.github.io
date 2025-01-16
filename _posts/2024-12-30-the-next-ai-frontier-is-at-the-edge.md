@@ -29,7 +29,7 @@ This article explores the engineering foundations of Edge AI, focusing on hardwa
 
 ## **Introduction to Edge AI**  
 
-As AI scales, the limitations of cloud computing become more apparent. Latency, bandwidth costs, and data privacy concerns restrict its use in real-time, critical applications like autonomous vehicles or healthcare monitoring. **Edge AI** addresses these challenges by moving data processing directly onto devices, unlocking faster inference, greater efficiency, and enhanced security.  
+**Edge AI** involves processing data locally on devices, reducing inference cost, offering faster decision-making, and enhanced security.  
 
 **The Four Key Advantages of Edge AI**:  
 - **Cost-Effective**: Reduces recurring expenses by minimizing reliance on cloud infrastructure.  
@@ -43,15 +43,15 @@ As AI scales, the limitations of cloud computing become more apparent. Latency, 
 - **Edge Computing**: Decentralizes processing by handling data closer to its source, minimizing transmission overhead.  
 - **Edge AI**: Combines edge computing with artificial intelligence, enabling intelligent, localized decision-making on devices like IoT sensors, drones, and smartphones. 
 
-- Additional Resources: [Edge-AI Core Concepts](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
+- Additional Resources: [Edge AI Core Concepts](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
 
-## **Why Edge AI is Becoming Crucial**
+### **Why Edge AI is Becoming Crucial**
 
 <p style="text-align: center;"> <img loading="lazy" alt="CrowdStrike Global Outage" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/BSOD-1.webp" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;">CrowdStrike Global Outage (Source: <a href="https://www.transputec.com/blogs/crowdstrike-outage-the-update/">Link</a>)</p></p>
 
 Cloud computing has long powered AI systems, but its inherent limitations—latency, bandwidth dependency, and vulnerability to outages—pose critical challenges for real-time, mission-critical applications. These shortcomings are becoming increasingly apparent as systems scale.  
 
-Consider the **2024 CrowdStrike outage**, which rendered 8.5 million Windows systems unusable with the infamous "Blue Screen of Death." Major companies, including airlines, financial institutions, and even the London Stock Exchange, faced significant disruptions, collectively incurring an estimated $10 billion in damages. Similarly, a **global ChatGPT outage** caused widespread service interruptions, underscoring the fragility of cloud-dependent infrastructures.  
+Consider the **[2024 CrowdStrike outage](https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages)**, which rendered 8.5 million Windows systems unusable with the infamous "Blue Screen of Death." Major companies, including airlines, financial institutions, and even the London Stock Exchange, faced significant disruptions, collectively incurring an estimated **$10 billion** in damages. Similarly, a **[global ChatGPT outage](https://x.com/OpenAI/status/1872387514960601184?t=YJTGgpNUFIU_W8uRKAVnbQ&s=19)** caused widespread service interruptions, underscoring the fragility of cloud-dependent infrastructures.  
 
 These incidents highlight the risks of over-reliance on centralized systems for AI deployment. **Edge AI mitigates these risks by processing data locally, enabling real-time responses, reducing reliance on network stability, and enhancing data privacy.** For use cases like autonomous vehicles or industrial automation, where latency and reliability are non-negotiable, Edge AI provides a robust alternative to traditional cloud solutions.
 
@@ -163,15 +163,15 @@ Applications like **autonomous driving**, **augmented reality**, and **mobile ro
    # Compile for real device deployment
    %run -m qai_hub_models.models.ffnet_40s.demo -- --device "Samsung Galaxy S23" --on-device
    ```  
-### Outcome: Analisys and Interpretation
+### Outcome: Analysis and Interpretation
 
-This step-by-step pipeline demonstrates the trade-offs between performance and efficiency in cloud vs. edge deployments. By optimizing models like FFNet, you can achieve robust, real-time inference capabilities on resource-constrained devices. Below a summary of the model performance on the target platforms.
+This step-by-step pipeline demonstrates the trade-offs between performance and efficiency in cloud vs. edge deployments. By optimizing models like FFNet, you can achieve robust, real-time inference capabilities on resource-constrained devices. Below is a summary of the model's performance on the target platforms.
 
 | Target | Inference time (ms) | Peak Memory Usage (MB)| Interpretation |
 |---|---|---|---|
 | Cloud Server | 0.005*  | 1777* | The cloud server provides the baseline performance. |
 | Hosted Device | 60.0 | 7 - 22 | The hosted device has higher inference time and Peak Memory Usage compared to the cloud server. |
-| Physical Device | 58.6 | 5 - 23 | The physical device has similar inference time and Peak Memory Usage to the hosted device. It shows the good correlation between the sim and the real device.|
+| Physical Device | 58.6 | 5 - 23 | The physical device demonstrates similar inference time and peak memory usage compared to the hosted device, highlighting a strong correlation between the simulation and the real device.|
 
 Check out the full notebook code: [Here](https://github.com/afondiel/afondiel.github.io/blob/main/assets/images/blog-posts/edge-ai/101/lab/Deploy_RT_Segmentation_Model_On_Real_Device.ipynb)
 
@@ -226,3 +226,4 @@ The journey of Edge AI is just beginning. With advancements in hardware efficien
 - [1] [Machine Learning Systems - Principles and Practices of Engineering Artificially Intelligent Systems, Vijay Janapa Reddi](https://mlsysbook.ai/)
 - [2] [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE - Semianalysis](https://semianalysis.com/2023/07/10/gpt-4-architecture-infrastructure/)
 - [3] [AI and compute, 2018 - OpenAI](https://openai.com/index/ai-and-compute/)
+- [4] [What Is Edge Computing? - NVIDIA](https://resources.nvidia.com/en-us-fleet-command/what-is-edge-computing)
