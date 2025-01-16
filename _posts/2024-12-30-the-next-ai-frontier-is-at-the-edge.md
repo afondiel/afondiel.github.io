@@ -85,7 +85,7 @@ The Edge AI stack comprises layers that work together to deliver optimized perfo
 | **Operating Systems**         | Android, Windows, Linux, Zephyr, Ubuntu, QNX                                                                         |
 | **Hardware**                  | CPU, GPU, NPU, sensing hubs                                                                                          |
 
-- Additional Resources: [End-to-End Edge AI Deployment Pipeline](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
+- Additional Resources: [End-to-End Edge AI Deployment Pipeline](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/concepts/deployment/end-to-end-edge-ai-deployment-pipeline.md), [Edge AI Model Zoo](https://github.com/afondiel/Edge-AI-Model-Zoo), [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
 
 ## **Applications and Use Cases**  
 
@@ -165,7 +165,9 @@ Applications like **autonomous driving**, **augmented reality**, and **mobile ro
    ```  
 ### Outcome: Analysis and Interpretation
 
-This step-by-step pipeline demonstrates the trade-offs between performance and efficiency in cloud vs. edge deployments. By optimizing models like FFNet, you can achieve robust, real-time inference capabilities on resource-constrained devices. Below is a summary of the model's performance on the target platforms.
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/lab/job_qai_hub.png" style="max-width: 100%; height: auto;" width="1280" height="720"><p style="text-align: center;">FFNet_40s profiling job on  <a href="https://aihub.qualcomm.com">Qualcomm AI Hub</a></p></p>
+
+This step-by-step pipeline demonstrates the trade-offs between performance and efficiency in cloud vs. edge deployments. By optimizing models like FFNet, you can achieve robust, real-time inference capabilities on resource-constrained devices. Below is a summary of the model's performance on the target platforms for a single inference.
 
 | Target | Inference time (ms) | Peak Memory Usage (MB)| Interpretation |
 |---|---|---|---|
@@ -178,7 +180,7 @@ Check out the full notebook code: [Here](https://github.com/afondiel/afondiel.gi
 
 ## **Challenges and Limitations**  
 
-<p style="text-align: center;"> <img loading="lazy" alt="The model efficiency equation - Brainchip" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/the-model-efficiency-eq-brainchip.png" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;">The model efficiency equation - <a href="https://brainchip.com/">Brainchip</a></p> </p>
+<p style="text-align: center;"> <img loading="lazy" alt="The model efficiency equation - Brainchip" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/the-model-efficiency-eq-brainchip.png" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;">The model efficiency equation - <a href="https://brainchip.com/">BrainChip</a></p></p>
 
 ### **Computing Power Constraints**
 
@@ -198,7 +200,7 @@ Edge AI is evolving rapidly, driven by advancements in hardware, software, and d
 
 ### **Emerging Technologies**
 
-<p style="text-align: center;"> <img loading="lazy" alt="brainchip" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/brainchip_ces_2022_clean.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+<p style="text-align: center;"> <img loading="lazy" alt="brainchip" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/brainchip_ces_2022_clean.png" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://brainchip.com/akida-foundations/">BrainChip</a> Akida: An Event-Based Neuromorphic AI Processor</p> </p></p>
 
 The next generation of Edge AI systems will benefit from co-designed AI models and hardware accelerators, enabling highly efficient end-to-end deployments. Startups and industry leaders alike are exploring novel methods to reduce costs and power consumption, critical for scaling edge solutions.  
 
@@ -214,6 +216,7 @@ Major players are pivoting their strategies to capitalize on the growing importa
 - **[Google](https://ai.google.dev/edge)**: Rebranded TensorFlow Lite as [LiteRT](https://developers.googleblog.com/en/tensorflow-lite-is-now-litert/), simplifying deployment for mobile, web, and embedded edge applications.  
 - **[Qualcomm](https://www.qualcomm.com/research/artificial-intelligence)**: Expanded its [AI Hub](https://www.qualcomm.com/news/releases/2024/02/qualcomm-continues-to-bring-the-generative-ai-revolution-to-devi#:~:text=Qualcomm%20AI%20Hub%20offers%2075,on%20Hugging%20Face%20and%20GitHub.) with over 75 optimized models for on-device applications.  
 
+- Further Reading: [Edge AI Players & Ecosystems](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications)
 
 ## **Conclusion**  
 
@@ -227,3 +230,4 @@ The journey of Edge AI is just beginning. With advancements in hardware efficien
 - [2] [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE - Semianalysis](https://semianalysis.com/2023/07/10/gpt-4-architecture-infrastructure/)
 - [3] [AI and compute, 2018 - OpenAI](https://openai.com/index/ai-and-compute/)
 - [4] [What Is Edge Computing? - NVIDIA](https://resources.nvidia.com/en-us-fleet-command/what-is-edge-computing)
+- [5] [BrainChip Akida Platforms](https://brainchip.com/akida-foundations/)
