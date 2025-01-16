@@ -85,7 +85,7 @@ The Edge AI stack comprises layers that work together to deliver optimized perfo
 | **Operating Systems**         | Android, Windows, Linux, Zephyr, Ubuntu, QNX                                                                         |
 | **Hardware**                  | CPU, GPU, NPU, sensing hubs                                                                                          |
 
-- Additional Resources: [End-to-End Edge AI Deployment Pipeline](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/concepts/deployment/end-to-end-edge-ai-deployment-pipeline.md), [Edge AI Model Zoo](https://github.com/afondiel/Edge-AI-Model-Zoo), [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
+- Additional Resources: [End-to-End Edge AI Deployment Pipeline](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/concepts/deployment/end-to-end-edge-ai-deployment-pipeline.md), [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples), [Edge AI Model Zoo](https://github.com/afondiel/Edge-AI-Model-Zoo)
 
 ## **Applications and Use Cases**  
 
@@ -200,7 +200,7 @@ Edge AI is evolving rapidly, driven by advancements in hardware, software, and d
 
 ### **Emerging Technologies**
 
-<p style="text-align: center;"> <img loading="lazy" alt="brainchip" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/brainchip_ces_2022_clean.png" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://brainchip.com/akida-foundations/">BrainChip</a> Akida: An Event-Based Neuromorphic AI Processor</p> </p></p>
+<p style="text-align: center;"> <img loading="lazy" alt="brainchip" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/brainchip_ces_2022_clean.png" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://brainchip.com/akida-foundations/">BrainChip</a> Akida: An Event-Based Neuromorphic AI Processor</p></p>
 
 The next generation of Edge AI systems will benefit from co-designed AI models and hardware accelerators, enabling highly efficient end-to-end deployments. Startups and industry leaders alike are exploring novel methods to reduce costs and power consumption, critical for scaling edge solutions.  
 
