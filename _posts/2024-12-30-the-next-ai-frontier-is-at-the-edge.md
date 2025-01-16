@@ -111,7 +111,7 @@ Self-driving vehicles demand split-second decision-making. Edge AI processes hig
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/ffnet-seg.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
-This case study demonstrates how to deploy a semantic segmentation model optimized for edge devices using [Qualcomm AI Hub](https://aihub.qualcomm.com/). The example leverages **FFNet**, a model tailored for efficient edge-based semantic segmentation, tested on the [Cityscapes dataset](https://www.cityscapes-dataset.com/).  
+This case study demonstrates how to deploy a semantic segmentation model optimized for edge devices using [Qualcomm AI Hub](https://aihub.qualcomm.com/) in just four simple steps. The example leverages **FFNet**, a model tailored for efficient edge-based semantic segmentation, tested on the [Cityscapes dataset](https://www.cityscapes-dataset.com/).  
 
 Applications like **autonomous driving**, **augmented reality**, and **mobile robotics** require real-time segmentation capabilities, making this deployment pipeline crucial for performance-critical scenarios.  
 
@@ -120,7 +120,7 @@ Applications like **autonomous driving**, **augmented reality**, and **mobile ro
 [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/afondiel.github.io/blob/main/assets/images/blog-posts/edge-ai/101/lab/Deploy_RT_Segmentation_Model_On_Real_Device.ipynb)
 
 1. **Configure Qualcomm AI Hub**  
-   Begin by Setting up your Qualcomm AI Hub environment for deployment:  
+   Begin by setting up your Qualcomm AI Hub environment for deployment:  
    ```python
    import qai_hub
    ai_hub_api_token = get_ai_hub_api_token()
@@ -158,7 +158,7 @@ Applications like **autonomous driving**, **augmented reality**, and **mobile ro
    ```  
 
 5. **Optimize and Deploy**  
-   Profile the model for edge execution, optimize it for hardware constraints, and deploy it to the device.  
+   Finally, we profile the model for edge execution, optimize it for hardware constraints, and deploy it to the device.  
    ```python
    # Compile for real device deployment
    %run -m qai_hub_models.models.ffnet_40s.demo -- --device "Samsung Galaxy S23" --on-device
