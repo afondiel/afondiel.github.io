@@ -154,14 +154,14 @@ Applications like **autonomous driving**, **augmented reality**, and **mobile ro
    %run -m qai_hub_models.models.ffnet_40s.demo
 
    # Simulate edge deployment
-   %run -m qai_hub_models.models.ffnet_40s.export -- --device "Samsung Galaxy S23"
+   %run -m qai_hub_models.models.ffnet_40s.export -- --device "Xiaomi 12 Pro"
    ```  
 
 5. **Optimize and Deploy**  
    Finally, we profile the model for edge execution, optimize it for hardware constraints, and deploy it to the device.  
    ```python
    # Compile for real device deployment
-   %run -m qai_hub_models.models.ffnet_40s.demo -- --device "Samsung Galaxy S23" --on-device
+   %run -m qai_hub_models.models.ffnet_40s.demo -- --device "Xiaomi 12 Pro" --on-device
    ```  
 ### Outcome: Analysis and Interpretation
 
