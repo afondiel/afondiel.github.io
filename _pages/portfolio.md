@@ -9,6 +9,8 @@ toc_icon: "bookmark"
 
 Explore my cutting-edge computer vision solutions addressing real-world challenges in smart industries such as autonomous systems, healthcare, agriculture, and more. 
 
+## Structure
+
 ### Core Projects: Real-World Computer Vision Applications
 ```
 ├── End-to-End Computer Vision Stack            
@@ -29,7 +31,7 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 │   └── VSLAM (VO) 
 └── Smart Cities
 ```
-### Industries: Case Studies
+### Industry: Case Studies
 ```
 ├── Autonomous Systems           
 │   ├── Robotics                 # Mobile, Humanoids, Embodied Agents
@@ -50,6 +52,7 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 ```
 
 ## Computer Vision
+
 ### Computer Vision Challenge 🏆
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)
@@ -110,4 +113,4 @@ Self-Driving Car foundational perception stack, which extracts useful informatio
 
 ## More Projects
 
-- [Here](https://github.com/diesimo-ai).
+- Find out [here](https://github.com/diesimo-ai).
