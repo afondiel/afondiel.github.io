@@ -25,11 +25,10 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 │   ├── Segmentation (semantic, instance, panoptic)                   
 │   ├── Multimodality (VLMs: GANs, VAEs, Diffusers ...)        
 │   └── Motion: Tracking & Flow
-├── Perception
-│   ├── Sensor Fusion (Camera, LiDAR, RADAR ...)                   
-│   ├── Depth Perception                                                     
-│   └── VSLAM (VO) 
-└── Smart Cities
+└── Perception
+    ├── Sensor Fusion (Camera, LiDAR, RADAR ...)                   
+    ├── Depth Perception                                                     
+    └── VSLAM (VO) 
 ```
 ### Industry: Case Studies
 ```
