@@ -9,48 +9,7 @@ toc_icon: "bookmark"
 
 Explore my cutting-edge computer vision solutions addressing real-world challenges in smart industries such as autonomous systems, healthcare, agriculture, and more. 
 
-## Structure
-
-### Core Projects: Real-World Computer Vision Applications
-```
-├── End-to-End Computer Vision Stack            
-│   ├── Data Acquisition (Camera modeling & Calibration)
-│   ├── Modeling        
-│   ├── Optimization                  
-│   ├── Deployment (Cloud, Edge Devices)        
-│   └── Monitoring
-├── Computer Vision Applications
-│   ├── Classification
-│   ├── Object Detection (2D, 3D, ..., ND)        
-│   ├── Segmentation (semantic, instance, panoptic)                   
-│   ├── Multimodality (VLMs: GANs, VAEs, Diffusers ...)        
-│   └── Motion: Tracking & Flow
-└── Perception
-    ├── Sensor Fusion (Camera, LiDAR, RADAR ...)                   
-    ├── Depth Perception                                                     
-    └── VSLAM (VO) 
-```
-### Industry: Case Studies
-```
-├── Autonomous Systems           
-│   ├── Robotics                 # Mobile, Humanoids, Embodied Agents
-│   ├── Self-Driving Cars        # ADAS, Autonomous Vehicles
-│   └── UAS: Drones, sUAS, UAVs  # Unmanned Aerial Systems
-├── Healthcare 
-│   └── Medical Imaging 
-├── Agriculture   
-│   └── Precision Farming
-├── Security
-│   └── Surveillance
-├── Manufacturing 
-│   └── Quality Control
-├── Retail 
-│   └── Consumer Analytics
-└── Smart Cities
-    └── Urban Planning
-```
-
-## Computer Vision
+## Computer Vision Real-World Applications
 
 ### Computer Vision Challenge 🏆
 
@@ -84,6 +43,14 @@ This is a visual odometry system that estimates the vehicle's trajectory using v
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p6-visual-odometry-for-localization/doc/pair-imgs-pxls.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+## Edge AI
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
+
+**Edge AI** involves processing data locally on devices, reducing inference cost, offering faster decision-making, and enhanced security. 
+Find out real-world examples on Edge AI eployment with state-of-the-art Frameworks [here](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples).
+
+- Additional Resources: Blog [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
 
 ## Case Studies
 
