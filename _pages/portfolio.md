@@ -76,7 +76,14 @@ Self-Driving Car foundational perception stack, which extracts useful informatio
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p7-self-driving-car-environment-perception/doc/final-project-segNet.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+**Additional Resources:** Edge AI Ecosystem [here](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications).
 
-## More Projects
+## More Projects & Solutions
 
 - Find out [here](https://github.com/diesimo-ai).
+
+<div style="margin-top: 20px; text-align: center;">
+    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
+    <a href="/services/" class="btn btn--primary" style="margin: 0 10px;">Expertises</a>
+</div>
+
