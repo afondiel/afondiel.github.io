@@ -25,7 +25,7 @@ A hands-on collection of foundational computer vision projects for everyone.
 
 ## Perception
 
-### Depth Perception for Obstacle Detection on the Road (From Self-Driving Car Specialization)
+### Depth Perception for Obstacle Detection on the Road
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/7a3866e06e9e0e9ff9f010fd44e635e385f4514b/Course3-Visual-Perception-for-Self-Driving-Cars/resources/w1/lab/Applying%20Stereo%20Depth%20to%20a%20Driving%20Scenario%20(practice%20assignment).ipynb)
 
@@ -47,8 +47,9 @@ This is a visual odometry system that estimates the vehicle's trajectory using v
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
 
-**Edge AI** involves processing data locally on devices, reducing inference cost, offering faster decision-making, and enhanced security. 
-Find out real-world examples on Edge AI eployment with state-of-the-art Frameworks [here](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples).
+**Edge AI** involves processing data locally on devices, reducing inference cost, offering faster decision-making, and enhanced security.
+
+Explore real-world examples of Edge AI deployment leveraging state-of-the-art frameworks [here](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples).
 
 - Additional Resources: Blog [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
 
@@ -80,7 +81,7 @@ Self-Driving Car foundational perception stack, which extracts useful informatio
 
 ## More Projects & Solutions
 
-- Find out [here](https://github.com/diesimo-ai).
+- Explore more [here](https://github.com/diesimo-ai).
 
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>

@@ -3,9 +3,9 @@ permalink: /services/
 title: "Expertises"
 # permalink: /services/
 # title: "Services"
-# toc: true
-# toc_label: "Table of Contents"
-# toc_icon: "bookmark"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
 ---
 
 Research to Production Computer Vision,  Perception, Edge AI, Real-World Solutions.
@@ -21,7 +21,7 @@ Research to Production Computer Vision,  Perception, Edge AI, Real-World Solutio
 │   └── Monitoring
 └── Computer Vision Applications
     ├── Classification
-    ├── Object Detection (2D, 3D, ..., ND)        
+    ├── Object Detection (2D, 3D, 4D)        
     ├── Segmentation (semantic, instance, panoptic)                   
     ├── Multimodality (VLMs: GANs, VAEs, Diffusers ...)        
     └── Motion & Video Analysis: Tracking & Flow
