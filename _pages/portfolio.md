@@ -15,7 +15,7 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)
 
-A hands-on collection of computer vision projects designed for all skill levels—beginners to experts. Explore real-world challenges, learn cutting-edge techniques, and build solutions tailored to industries.
+A hands-on collection of computer vision projects designed for all skill levels—beginners to experts.
 
 **Challenge Levels**
 - **Level 0** - Beginner: Basics of image processing and OpenCV.
