@@ -15,13 +15,15 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)
 
-A hands-on collection of foundational computer vision projects for everyone.
-- **Level 0** - Zero/beginner: Getting Started with Basics
-- **Level 1** - Apprentice/intermediate: Hands-on Computer Vision with Deep Learning
-- **Level 2** - Hero: Large Vision Models (LVMs) from Image Generation, Inpainting, & More
-- **Level 3** - Advanced: Video Models Benchmarking (ongoing)
-- **Level 4** - Expert: Finetuning of VLMs (Vision Language Models) & LVMs (ongoing)
-- **Level 5** - Master: Multimodality (ongoing)
+A hands-on collection of computer vision projects designed for all skill levels—beginners to experts. Explore real-world challenges, learn cutting-edge techniques, and build solutions tailored to industries.
+
+**Challenge Levels**
+- **Level 0** - Beginner: Basics of image processing and OpenCV.
+- **Level 1** - Intermediate: Build deep learning models with PyTorch/TensorFlow.
+- **Level 2** - Hero: Explore image generation and inpainting with LVMs.
+- **Level 3** - Advanced (ongoing): Benchmark video models for action recognition.
+- **Level 4** - Expert (ongoing): Fine-tune VLMs and LVMs for custom datasets.
+- **Level 5** - Master (ongoing): Build multimodal AI systems combining vision, text, and more. 
 
 ## Perception
 
