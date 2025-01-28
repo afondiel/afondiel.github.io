@@ -30,7 +30,7 @@ Research to Production Computer Vision,  Perception, Edge AI, Real-World Solutio
 ### Perception
 ``` 
 └── Perception
-    ├── Camera modeling & Calibration (Monocular, Stereo, Fisheye) 
+    ├── Camera Modeling & Calibration (Monocular, Stereo, Fisheye) 
     ├── Sensor Fusion (Camera, LiDAR, RADAR ...)                   
     ├── Depth Perception                                                     
     └── VSLAM (VO) 
