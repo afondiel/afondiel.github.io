@@ -8,7 +8,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-Research to Production Computer Vision,  Perception, Edge AI, Real-World Solutions.
+**Research to Production** cutting-edge Computer Vision, Perception, and Edge AI solutions for real-world Applications.
 
 ## Solution Map
 
@@ -72,12 +72,12 @@ Research to Production Computer Vision,  Perception, Edge AI, Real-World Solutio
 └── Smart Cities
     └── Urban Planning
 ```
-### Demos: POCS ans MVS ... 
+### Demos: POCS and MVS ... 
 ```
 └── Demos: POCs, MVS ...
-    ├── HF Space                   
-    ├── Gradio App                                                     
-    └── Front End App: VO ...  
+    ├── Hugging Face Spaces: Gradio, Streamlit, Dockers, ...                                                     
+    ├── Front-end UI: V0, Qt ...                                                      
+    └── Realtime App/Model Serving: Flask, FastAPI, WebSocket/SSE ...  
 ``` 
 
 <div style="margin-top: 20px; text-align: center;">
