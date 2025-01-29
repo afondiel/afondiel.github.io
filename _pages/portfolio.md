@@ -45,6 +45,14 @@ This is a visual odometry system that estimates the vehicle's trajectory using r
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p6-visual-odometry-for-localization/doc/pair-imgs-pxls.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+### End-to-End Self-Driving Car Behavioral Cloning
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/tree/master)
+
+End-to-End self-driving car behavioral cloning implementation based on NVIDIA End-to-End Learning [paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) using Computer Vision and realtime data from [Udacity Self-Driving Car simulator](https://github.com/udacity/self-driving-car-sim).
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/blob/master/docs/img/autonomous-mode.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
 ## Edge AI
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
