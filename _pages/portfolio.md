@@ -13,7 +13,7 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 
 ### Computer Vision Challenge 🏆
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge) [![Demo on HF Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/afondiel/image-colorizer-deoldify)
 
 A hands-on collection of computer vision projects designed for all skill levels—beginners to experts.
 
