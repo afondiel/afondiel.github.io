@@ -37,11 +37,11 @@ Implemented stereo depth estimation using Python and OpenCV on CARLA simulator i
 
 **Additional Resources:** Learn core concepts [here](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/7a3866e06e9e0e9ff9f010fd44e635e385f4514b/Course3-Visual-Perception-for-Self-Driving-Cars/course3-w1-notes.md).
 
-### Vision Odometry (VO) for Self-Driving Car Location
+### Visual Odometry (VO) for Self-Driving Car Location
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p6-visual-odometry-for-localization)
 
-A visual odometry system that estimates the vehicle's trajectory using visual data captured by its monocular camera.
+This is a visual odometry system that estimates the vehicle's trajectory using realtime visual data captured by its (monocular) camera.
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p6-visual-odometry-for-localization/doc/pair-imgs-pxls.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
