@@ -11,7 +11,7 @@ learning models on edge devices for real-world applications across multiple indu
 
 I hold a **Master’s in Electrical and Computer Engineering** from [ENSEA](https://www.ensea.fr/) (France), with a major in Embedded Systems, and have specialized training in self-driving technologies from the **University of Toronto**. My expertise lies in developing **end-to-end computer vision stacks** that enhance the capabilities of autonomous systems.  
 
-My mission is to leverage deep expertise in computer vision, edge AI, and embedded systems to deliver optimized, scalable, and efficient solutions for industries like automotive, healthcare, and robotics. From model design to deployment, I ensure real-time performance and measurable impact. 
+My mission is to leverage deep expertise in computer vision, edge AI, and embedded systems to deliver optimized, scalable, and efficient solutions for industries like automotive, healthcare, and robotics. From Research to Production, I ensure real-time performance and measurable impact. 
 
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
