@@ -42,12 +42,12 @@ toc_icon: "bookmark"
 │   ├── Data Acquisition (Sensors: Camera, LiDAR ...)
 │   ├── Modeling        
 │   ├── Optimization                   
-│   ├── Deployment (LiteRT, ExecuTorch, OpenVINO, ...)       
+│   ├── Deployment (LiteRT, ExecuTorch, Onnx, OpenVINO, ...)       
 │   └── Profiling/Monitoring (Qualcomm AI Hub, Edge Impulse..)
-├── Model and HW Optimization (runtime, accelerators...)
+├── Model and HW Optimization (runtime/inference engine, accelerators...)
 │   ├── Compression: Quantization, Distillation, Prunning 
 │   ├── Job Specialization: transfer learning, fine-tuning                                   
-│   └── Resource-efficiency: Computation (GOps), Memory (MB), Energy(Ops/W)
+│   └── Resource-efficiency: Computation (GOPS), Memory (MB), Energy (OPS/W)
 └── Deployment at the Edge: Target Platform
     ├── Smart Devices: Smartphones, Wearable Devices                                                     
     └── Embedded Devices: NVIDIA Jetson Nano, Raspberry Pi, MCUs ...  
