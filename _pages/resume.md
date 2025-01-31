@@ -16,29 +16,29 @@ learning models on edge devices for real-world applications across multiple indu
 
 ## **EXPERIENCE**
 
-### **T&S Engineering** (Paris, France)
+### **[T&S Engineering](https://www.technologyandstrategy.com/en/)** (Paris, France)
 
 **Software Engineer Consultant**, Sep 2019 – Present
 
-- **AGCO Corp** (Beauvais, France), Jun 2021 – Sep 2022
+- **[AGCO Corp](https://www.agcocorp.fr/)** (Beauvais, France), Jun 2021 – Sep 2022
   - Developed and integrated a wiper control module for next-generation tractors, enhancing operational efficiency.
   - Implemented a telemetry module tailored for the Chinese market, facilitating real-time data acquisition and analysis.
   - Designed diagnostic functions adhering to the UDS standard, improving system reliability and maintainability.
   - Conducted comprehensive testing and validation on machinery, ensuring robustness and compliance with industry standards.
 
-- **Faurecia** (Brières, France), Jun 2020 – Jun 2021
+- **[Faurecia](<https://www.faurecia.com/en/)>)** (Brières, France), Jun 2020 – Jun 2021
   - Engineered a smart seat system capable of detecting occupant posture using integrated machine learning algorithms.
   - Seamlessly integrated machine learning models into embedded systems, enabling real-time inference on edge devices.
   - Developed APIs for model inference, streamlining the deployment of AI functionalities in automotive applications.
   - Led testing and evaluation processes, ensuring high accuracy and reliability of posture detection systems.
 
-- **E2CAD** (Eragny, France), Sep 2019 – Jun 2020
-  - Spearheaded software development for inverter platforms in collaboration with Renault Group, enhancing electric vehicle performance.
+- **[E2CAD](https://e2-cad.com/en/)** (Eragny, France), Sep 2019 – Jun 2020
+  - Spearheaded software development for inverter platforms in collaboration with [Renault Group](https://www.renaultgroup.com/en/), enhancing electric vehicle performance.
   - Configured I/O and ADC systems for precise signal processing, contributing to improved system responsiveness.
   - Established robust communication protocols between SPI and FPGA, ensuring seamless data exchange and system integration.
   - Conducted rigorous unit testing and validation, guaranteeing software reliability and performance.
 
-### **Valeo** (Cergy, France)
+### **[Valeo](https://www.valeo.com/en/)** (Cergy, France)
 
 **Software Engineer (Apprentice)**, Sep 2015 – Sep 2018
 
@@ -48,16 +48,16 @@ learning models on edge devices for real-world applications across multiple indu
 
 ## **EDUCATION**
 
-- **Electrical Engineering & Industrial Computing** (Master's degree), ENSEA – Cergy, France
+- **Electrical Engineering & Industrial Computing** (Master's degree), [ENSEA](https://www.ensea.fr/en) – Cergy, France
   - Specialized in Embedded Systems
-- **Electrical Engineering and Industrial Computing** (Bachelor's degree), Institute of Technology of Cherbourg-Manche
+- **Electrical Engineering and Industrial Computing** (Bachelor's degree), [Institute of Technology of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire-de-technologie/nos-parcours-de-but/geii-reseaux-automatismes-nouvelles-technologies-/genie-electrique-et-informatique-industrielle-34554.kjsp)
   - Specialized in Control & Industrial Computing
 
 ## **CERTIFICATIONS**
 
-- **Self-Driving Cars Specialization**, University of Toronto, Coursera, Jun 2023
-- **IBM Data Science Professional Certificate**, Coursera, Sep 2022
-- **The Complete Self-Driving Car Course - Applied Deep Learning Computing Certificate**, Udemy, Mar 2021
+- **[Self-Driving Cars Specialization, University of Toronto, Coursera, Jun 2023](https://coursera.org/share/600753f1d55bf984d95fc15e957d626a)**
+- **[IBM Data Science Professional Certificate, Coursera, Sep 2022](https://www.coursera.org/account/accomplishments/professional-cert/GRC4DCMSV5PH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)**
+- **[The Complete Self-Driving Car Course** - Applied Deep Learning Computing Certificate, Udemy, Mar 2021](https://www.udemy.com/certificate/UC-738156af-8b44-419b-8222-db8cf3d8ea7a/)**
 
 ## **SKILLS**
 
