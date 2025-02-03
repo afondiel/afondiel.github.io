@@ -27,6 +27,16 @@ A hands-on collection of computer vision projects designed for all skill levelsâ
 
 ## Perception
 
+### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
+
+This project involved integrating data from multiple sensors to accurately determine a vehicle's position and motion on the roadway. The system uses techniques such as Kalman filtering to combine inputs from GPS, IMU, and LiDAR, enhancing the precision of state estimation critical for autonomous driving applications.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p5-self-driving-vehicle-state-estimation-on-roadway/doc/full-state-estimation-pipeline.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+**Additional Resources:** [Linear/Non Linear KF Implementation](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/7a3866e06e9e0e9ff9f010fd44e635e385f4514b/Course3-Visual-Perception-for-Self-Driving-Cars/course3-w1-notes.md).
+
 ### Depth Perception for Obstacle Detection on the Road
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/7a3866e06e9e0e9ff9f010fd44e635e385f4514b/Course3-Visual-Perception-for-Self-Driving-Cars/resources/w1/lab/Applying%20Stereo%20Depth%20to%20a%20Driving%20Scenario%20(practice%20assignment).ipynb)
