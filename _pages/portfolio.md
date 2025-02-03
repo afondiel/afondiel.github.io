@@ -35,7 +35,7 @@ This project involved integrating data from multiple sensors to accurately deter
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p5-self-driving-vehicle-state-estimation-on-roadway/doc/full-state-estimation-pipeline.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
-**Additional Resources:** [Linear/Non Linear KF Implementation](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/7a3866e06e9e0e9ff9f010fd44e635e385f4514b/Course3-Visual-Perception-for-Self-Driving-Cars/course3-w1-notes.md).
+**Additional Resources:** [Linear/Non Linear KF Implementation](https://github.com/afondiel/computer-science-notebook/blob/master/core/fundamentals/signal-processing/sp-algorithms/Kalman_filter_linear_nonlinear.ipynb).
 
 ### Depth Perception for Obstacle Detection on the Road
 
