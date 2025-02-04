@@ -35,6 +35,14 @@ Apply the [YOLO (You Only Look Once)](https://docs.ultralytics.com/) model serie
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/docs/02-2d-object-det/2d-obj-det-yolo-cover.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+### Road Segmentation with Fully Convolutional Networks (FCN)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/01-Road-Seg/road-segmentation-fcn-tf.ipynb)
+
+Implement an Fully Convolutional Networks ([FCN](https://arxiv.org/abs/1411.4038)) model to perform pixel-wise classification, enabling the vehicle to distinguish drivable road areas from obstacles. It gets real-world visual data from [KITTI Dataset](https://www.cvlibs.net/datasets/kitti/).
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/portfolio_assets/fcn_road_seg_in_out.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
 ### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
