@@ -124,7 +124,8 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 ## More Projects & Solutions
 
-- Explore more [here](https://github.com/diesimo-ai).
+- Explore more projects & solutions [here](https://github.com/diesimo-ai).
+- [⬆️ Back to the Top ⬆️](#computer-vision-challenge-)
 
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
