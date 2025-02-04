@@ -43,6 +43,14 @@ Implement an Fully Convolutional Networks ([FCN](https://arxiv.org/abs/1411.4038
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/portfolio_assets/fcn_road_seg_in_out.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+### Realtime Multi-Object Tracking with DeepSORT
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/03-object-tracking/object-tracking-deep-sort.ipynb)
+
+Integrate the [DeepSORT](https://arxiv.org/pdf/1703.07402) model to track the trajectory of detected objects across video frames, maintaining consistent identification.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://camo.githubusercontent.com/8956282c16223fa825b6d680ebc724d781c989a24e74aa941ce2c3f6f5d44677/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a2d5332456b7547686b503974703949742e4a5047" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
 ### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
