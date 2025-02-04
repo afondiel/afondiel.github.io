@@ -27,6 +27,14 @@ A hands-on collection of computer vision projects designed for all skill levelsâ
 
 ## Perception
 
+### 2D Object Detection with YOLO for Autonomous Vehicles
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/02-2d-object-det/2d-object-detection-yolov3-keras.ipynb)
+
+Apply the [YOLO (You Only Look Once)](https://docs.ultralytics.com/) model series to detect and classify objects such as pedestrians, vehicles, and traffic signs in real-time. It uses real-world camera and LIDAR data from Lyft 3D Object Detection [dataset](https://www.kaggle.com/competitions/3d-object-detection-for-autonomous-vehicles) for autonomous vehicles.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/docs/02-2d-object-det/2d-obj-det-yolo-cover.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
 ### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
@@ -55,6 +63,10 @@ This is a visual odometry system that estimates the vehicle's trajectory using r
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p6-visual-odometry-for-localization/doc/pair-imgs-pxls.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+<!-- Visual DMS -->
+<!-- Surround-view perception -->
+<!-- Multi-camera-fusion: 360-degree fusion -->
+
 ## Edge AI
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
@@ -62,6 +74,8 @@ This is a visual odometry system that estimates the vehicle's trajectory using r
 **Edge AI** involves processing data locally on devices, reducing inference cost, offering faster decision-making, and enhanced security.
 
 - Learn more: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
+
+<!--Deploy with TensorRT on Jetson Nano-->
 
 ### Real-time Segmentation Deployment with Qualcomm AI Hub 
 
