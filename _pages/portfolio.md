@@ -60,6 +60,15 @@ Utilize the [SFA3D](https://arxiv.org/pdf/2001.03343) model to detect objects in
 https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/06-3d-obj-det/3d-object-detection-cover.png
 " style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+
+### 3D Data Visualization and Homogeneous Transformations 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/04-3d-data-viz/3d-data-visualization-kitti-lidar.ipynb )
+
+Visualize and manipulate 3D point cloud data from LiDAR sensors ([KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset), applying homogeneous transformations to align data from multiple sensors.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/04-3d-data-viz/3d-data-viz-cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
 ### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
