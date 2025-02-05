@@ -69,6 +69,22 @@ Visualize and manipulate 3D point cloud data from LiDAR sensors ([KITTI](https:/
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/04-3d-data-viz/3d-data-viz-cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+### Camera to Bird's Eye View Projection with UNetXST
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/07-UNetXST/unetxst-camera-to-bird-s-eye-view.ipynb)
+
+Develop a model to transform camera images into a bird's eye view, aiding in better spatial understanding for navigation.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/07-UNetXST/07-camera-to-birds-eye-view-using-unetxst-cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### Multi-Task Learning with Multi-Task Attention Network (MTAN)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/05-MTAN/mtan-multi-task-attention-network.ipynb)
+
+Implement a Multi-Task Attention Network ([MTAN](https://arxiv.org/pdf/1803.10704)) on [CityScapes](https://www.cityscapes-dataset.com/) Dataset, to simultaneously perform tasks like road segmentation and object detection, improving computational efficiency.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/05-MTAN/MTAN-cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
 ### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
