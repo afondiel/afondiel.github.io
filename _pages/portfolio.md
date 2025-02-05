@@ -51,6 +51,15 @@ Integrate the [DeepSORT](https://arxiv.org/pdf/1703.07402) model to track the tr
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://camo.githubusercontent.com/8956282c16223fa825b6d680ebc724d781c989a24e74aa941ce2c3f6f5d44677/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a2d5332456b7547686b503974703949742e4a5047" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+### 3D Object Detection with SFA3D and KITTI
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/06-3d-obj-det/3d-object-detection-sfa3d.ipynb)
+
+Utilize the [SFA3D](https://arxiv.org/pdf/2001.03343) model to detect objects in 3D space using LiDAR data from [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset, crucial for understanding the vehicle's surroundings.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="
+https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/06-3d-obj-det/3d-object-detection-cover.png
+" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
 ### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
@@ -80,7 +89,7 @@ This is a visual odometry system that estimates the vehicle's trajectory using r
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p6-visual-odometry-for-localization/doc/pair-imgs-pxls.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
 <!-- Visual DMS -->
-<!-- Surround-view perception -->
+<!-- Surround-view perception (Valeo OmniDet)-->
 <!-- Multi-camera-fusion: 360-degree fusion -->
 
 ## Edge AI
