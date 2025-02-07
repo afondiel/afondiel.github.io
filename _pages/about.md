@@ -80,7 +80,7 @@ My passion for the automotive industry and motorsports drives my work in develop
 
 ### Ultrarunner ⚡️ 
 
-<quote><small>"No Human Is Limited" ~ <a href="https://fr.wikipedia.org/wiki/Eliud_Kipchoge">Eliud Kipchoge</a></small></quote>
+<quote><small>"No Human Is Limited." ~ <a href="https://fr.wikipedia.org/wiki/Eliud_Kipchoge">Eliud Kipchoge</a></small></quote>
 
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="max-width: 600px;">
