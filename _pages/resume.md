@@ -6,7 +6,7 @@ permalink: /resume/
 # toc_icon: "bookmark"
 ---
 
-[Download Resume](https://drive.google.com/uc?id=1im7V4GLQt-rJLweivjVJG4LDQ2mL4lMc&export=download)
+[Download Resume](https://drive.google.com/file/d/1im7V4GLQt-rJLweivjVJG4LDQ2mL4lMc/view)
 
 ## **SUMMARY**
 

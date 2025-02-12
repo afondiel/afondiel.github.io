@@ -27,6 +27,74 @@ A hands-on collection of computer vision projects designed for all skill levels�
 
 ## Perception
 
+### 2D Object Detection with YOLO for Autonomous Vehicles
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/02-2d-object-det/2d-object-detection-yolov3-keras.ipynb)
+
+Apply the [YOLO (You Only Look Once)](https://docs.ultralytics.com/) model series to detect and classify objects such as pedestrians, vehicles, and traffic signs in real-time. It uses real-world camera and LIDAR data from Lyft 3D Object Detection [dataset](https://www.kaggle.com/competitions/3d-object-detection-for-autonomous-vehicles) for autonomous vehicles.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/docs/02-2d-object-det/2d-obj-det-yolo-cover.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### Road Segmentation with Fully Convolutional Networks (FCN)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/01-Road-Seg/road-segmentation-fcn-tf.ipynb)
+
+Implement an Fully Convolutional Networks ([FCN](https://arxiv.org/abs/1411.4038)) model to perform pixel-wise classification, enabling the vehicle to distinguish drivable road areas from obstacles. It gets real-world visual data from [KITTI Dataset](https://www.cvlibs.net/datasets/kitti/).
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/portfolio_assets/fcn_road_seg_in_out.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### Realtime Multi-Object Tracking with DeepSORT
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/03-object-tracking/object-tracking-deep-sort.ipynb)
+
+Integrate the [DeepSORT](https://arxiv.org/pdf/1703.07402) model to track the trajectory of detected objects across video frames, maintaining consistent identification.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://camo.githubusercontent.com/8956282c16223fa825b6d680ebc724d781c989a24e74aa941ce2c3f6f5d44677/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a2d5332456b7547686b503974703949742e4a5047" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### 3D Object Detection with SFA3D and KITTI
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/06-3d-obj-det/3d-object-detection-sfa3d.ipynb)
+
+Utilize the [SFA3D](https://arxiv.org/pdf/2001.03343) model to detect objects in 3D space using LiDAR data from [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset, crucial for understanding the vehicle's surroundings.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="
+https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/06-3d-obj-det/3d-object-detection-cover.png
+" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+
+### 3D Data Visualization and Homogeneous Transformations 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/04-3d-data-viz/3d-data-visualization-kitti-lidar.ipynb )
+
+Visualize and manipulate 3D point cloud data from LiDAR sensors ([KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset), applying homogeneous transformations to align data from multiple sensors.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/04-3d-data-viz/3d-data-viz-cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### Camera to Bird's Eye View Projection with UNetXST
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/07-UNetXST/unetxst-camera-to-bird-s-eye-view.ipynb)
+
+Develop a model to transform camera images into a bird's eye view, aiding in better spatial understanding for navigation.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/07-UNetXST/07-camera-to-birds-eye-view-using-unetxst-cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### Multi-Task Learning with Multi-Task Attention Network (MTAN)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/blob/main/lab/notebooks/05-MTAN/mtan-multi-task-attention-network.ipynb)
+
+Implement a Multi-Task Attention Network ([MTAN](https://arxiv.org/pdf/1803.10704)) on [CityScapes](https://www.cityscapes-dataset.com/) Dataset, to simultaneously perform tasks like road segmentation and object detection, improving computational efficiency.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/Self-Driving-Cars-Perception-and-Deep-Learning-Free-Course-freeCodeCamp/raw/main/docs/05-MTAN/MTAN-cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### Multimodal Sensor Fusion with GPS, IMU, and LiDAR for Vehicule Localization.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p5-self-driving-vehicle-state-estimation-on-roadway)
+
+This project involved integrating data from multiple sensors to accurately determine a vehicle's position and motion on the roadway. The system uses techniques such as Kalman filtering to combine inputs from GPS, IMU, and LiDAR, enhancing the precision of state estimation critical for autonomous driving applications.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p5-self-driving-vehicle-state-estimation-on-roadway/doc/full-state-estimation-pipeline.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+**Additional Resources:** [Linear/Non Linear KF Implementation](https://github.com/afondiel/computer-science-notebook/blob/master/core/fundamentals/signal-processing/sp-algorithms/Kalman_filter_linear_nonlinear.ipynb).
+
 ### Depth Perception for Obstacle Detection on the Road
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/Self-Driving-Cars-Specialization/blob/7a3866e06e9e0e9ff9f010fd44e635e385f4514b/Course3-Visual-Perception-for-Self-Driving-Cars/resources/w1/lab/Applying%20Stereo%20Depth%20to%20a%20Driving%20Scenario%20(practice%20assignment).ipynb)
@@ -45,6 +113,10 @@ This is a visual odometry system that estimates the vehicle's trajectory using r
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p6-visual-odometry-for-localization/doc/pair-imgs-pxls.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+<!-- Visual DMS -->
+<!-- Surround-view perception (Valeo OmniDet)-->
+<!-- Multi-camera-fusion: 360-degree fusion -->
+
 ## Edge AI
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
@@ -52,6 +124,8 @@ This is a visual odometry system that estimates the vehicle's trajectory using r
 **Edge AI** involves processing data locally on devices, reducing inference cost, offering faster decision-making, and enhanced security.
 
 - Learn more: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
+
+<!--Deploy with TensorRT on Jetson Nano-->
 
 ### Real-time Segmentation Deployment with Qualcomm AI Hub 
 
@@ -84,7 +158,8 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 ## More Projects & Solutions
 
-- Explore more [here](https://github.com/diesimo-ai).
+- Explore more projects & solutions [here](https://github.com/diesimo-ai).
+- [⬆️ Back to the Top ⬆️](#computer-vision-challenge-)
 
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>

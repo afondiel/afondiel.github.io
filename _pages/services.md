@@ -21,7 +21,7 @@ toc_icon: "bookmark"
 │   └── Monitoring
 └── Computer Vision Applications
     ├── Classification
-    ├── Object Detection (2D, 3D, 4D)        
+    ├── Object Detection (2D, 3D)        
     ├── Segmentation (semantic, instance, panoptic)                   
     ├── Multimodality (VLMs: GANs, VAEs, Diffusers ...)        
     └── Motion & Video Analysis: Tracking & Flow
@@ -42,7 +42,7 @@ toc_icon: "bookmark"
 │   ├── Data Acquisition (Sensors: Camera, LiDAR ...)
 │   ├── Modeling        
 │   ├── Optimization                   
-│   ├── Deployment (LiteRT, ExecuTorch, Onnx, OpenVINO, ...)       
+│   ├── Deployment (TensorRT, OpenVINO, Qualcomm AI Hub, Onnx, LiteRT, ExecuTorch)       
 │   └── Profiling/Monitoring (Qualcomm AI Hub, Edge Impulse..)
 ├── Model and HW Optimization (runtime/inference engine, accelerators...)
 │   ├── Compression: Quantization, Distillation, Prunning 
