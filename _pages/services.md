@@ -8,7 +8,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-**Research to Production** cutting-edge Computer Vision, Perception, and Edge AI solutions for real-world Applications.
+**Research to Production** cutting-edge Computer Vision, Perception, and Edge AI solutions for Real-world Applications.
 
 ## Solution Map
 
