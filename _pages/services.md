@@ -8,11 +8,11 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-**Research to Production** cutting-edge Computer Vision, Perception, and Edge AI solutions for Real-world Applications.
+From Research to Production: Industry-Aware Computer Vision, Perception, and Edge AI Solutions for Real-World Applications.
 
 ## Solution Map
 
-### Core: Computer Vision Real-World Applications
+### Core: Computer Vision
 ```
 ├── End-to-End Computer Vision Stack            
 │   ├── Data Acquisition/Labeling
@@ -74,15 +74,16 @@ toc_icon: "bookmark"
 ```
 ### Demos: POCS and MVS ... 
 ```
-└── Demos: POCs, MVS ...
+└── Demos: POCs & Minimum Viable Solution (MVS)
     ├── Colab, Jupyter Notebooks                                                      
-    ├── Hugging Face Spaces: Gradio, Streamlit, Dockers, ...                                                     
-    ├── Frontend UI: V0, Qt ...                                                      
-    └── Realtime App/Model Serving: Flask, FastAPI, WebSocket/SSE ...  
+    ├── Hugging Face Spaces: Gradio, Streamlit, Docker                                                     
+    ├── Frontend Web/App UI: V0, Qt                                                      
+    └── Realtime App/Model Serving: Flask, FastAPI, WebSocket/SSE  
 ``` 
 
 <div style="margin-top: 20px; text-align: center;">
-    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
     <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
+    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Book a Demo</a>
 </div>
 
+<!-- Add a form for whitepaper & solutions brochure -->
