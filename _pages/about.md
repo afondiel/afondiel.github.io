@@ -14,8 +14,8 @@ I hold a **Master’s in Electrical and Computer Engineering** from [ENSEA](http
 My mission is to leverage deep expertise in computer vision, edge AI, and embedded systems to deliver optimized, scalable, and efficient solutions for industries like automotive, healthcare, and robotics. From Research to Production, I ensure real-time performance and measurable impact. 
 
 <div style="margin-top: 20px; text-align: center;">
-    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
     <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
+    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Book a Demo</a>
 </div>
 
 ## Interests

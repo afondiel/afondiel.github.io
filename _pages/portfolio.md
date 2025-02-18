@@ -156,13 +156,14 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/blob/master/docs/img/autonomous-mode.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+- [⬆️ Back to the Top ⬆️](#computer-vision-challenge-)
+
 ## More Projects & Solutions
 
 - Explore more projects & solutions [here](https://github.com/diesimo-ai).
-- [⬆️ Back to the Top ⬆️](#computer-vision-challenge-)
 
 <div style="margin-top: 20px; text-align: center;">
-    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Chat</a>
-    <a href="/services/" class="btn btn--primary" style="margin: 0 10px;">Expertises</a>
+    <a href="/services/" class="btn btn--primary" style="margin: 0 10px;">Solutions</a>
+    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Book a Demo</a>
 </div>
 
