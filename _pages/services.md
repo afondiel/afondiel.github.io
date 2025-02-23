@@ -78,7 +78,7 @@ From Research to Production: Industry-Aware Computer Vision, Perception, and Edg
     ├── Colab, Jupyter Notebooks                                                      
     ├── Hugging Face Spaces: Gradio, Streamlit, Docker                                                     
     ├── Frontend Web/App UI: V0, Qt                                                      
-    └── Realtime App/Model Serving: Flask, FastAPI, WebSocket/SSE  
+    └── Realtime App/Model Serving: Flask, FastAPI, WebSocket/WSS  
 ``` 
 
 <div style="margin-top: 20px; text-align: center;">
