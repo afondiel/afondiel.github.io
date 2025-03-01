@@ -36,7 +36,7 @@ pagination:
   </p>
   <div style="margin-top: 20px;"> 
     <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
-    <a href="/about/" class="btn btn--primary" style="margin: 0 10px;">Let's Connect</a>
+    <a href="/services/" class="btn btn--primary" style="margin: 0 10px;">Expertise</a>
   </div>
 </div>
 
