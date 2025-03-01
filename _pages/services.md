@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "Expertises"
+title: "Expertise"
 # permalink: /services/
 # title: "Services"
 toc: true

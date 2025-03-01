@@ -5,7 +5,7 @@ main:
     url: /portfolio/
   - title: "Blog"
     url: /posts/
-  - title: "Expertises"
+  - title: "Expertise"
     url: /services/
   - title: "Resume"
     url: /resume/
