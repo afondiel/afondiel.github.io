@@ -122,7 +122,7 @@ This is a visual odometry system that estimates the vehicle's trajectory using r
 **Edge AI** involves processing data locally on devices, reducing inference cost, offering faster decision-making, and enhanced security.
 
 - Further Reading: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
-- Learning Resources: [Curated Edge AI Technical Guides](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
+- Learning Resources: [Curated Edge AI Technical Guides](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/)
 
 <!--Deploy with TensorRT on Jetson Nano-->
 
