@@ -5,17 +5,15 @@ permalink: /about/
 
 #### Hello World! 
 
-I am Afonso Diela, an **Edge AI/ML and Computer Vision Engineer** with over 5 years of experience delivering software
-solutions in the automotive industry. Expertise in designing, optimizing, and deploying deep
-learning models on edge devices for real-world applications across multiple industries.
+I am Afonso Diela, an **Edge AI/ML and Computer Vision Engineer** based in Paris, with over 5 years of experience delivering software solutions in the automotive industry. I specialize in designing, optimizing, and deploying deep learning models on embedded and edge devices for real-world applications across multiple industries.
 
-I hold a **Master’s in Electrical and Computer Engineering** from [ENSEA](https://www.ensea.fr/) (France), with a major in Embedded Systems, and have specialized training in self-driving technologies from the **University of Toronto**. My expertise lies in developing **end-to-end computer vision stacks** that enhance the capabilities of autonomous systems.  
+I hold a **Master’s in Electrical Engineering and Industrial Computing** from [ENSEA](https://www.ensea.fr/) (France), with a focus on Embedded Systems. Additionally, I completed specialized training in self-driving technologies from the **[University of Toronto](https://drive.google.com/file/d/1wlgQ-GwoIgOL2Vow7FwiiunkZ4DbRg_c/view?usp=sharing)** and am a Certified Data Scientist by [IBM](https://drive.google.com/file/d/1cMWIpsucaRy8IGRQFemFAFhurRcslfLF/view?usp=sharing).
 
-My mission is to leverage deep expertise in computer vision, edge AI, and embedded systems to deliver optimized, scalable, and efficient solutions for industries like automotive, healthcare, and robotics. From Research to Production, I ensure real-time performance and measurable impact. 
+My mission is to leverage my deep expertise in Edge AI, embedded systems, and computer vision to deliver efficient, scalable solutions—from research to production—ensuring real-time performance and measurable impact.
 
 <div style="margin-top: 20px; text-align: center;">
-    <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
-    <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Book a Demo</a>
+  <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
+  <a href="/services/" class="btn btn--primary" style="margin: 0 10px;">Expertise</a>
 </div>
 
 ## Interests
