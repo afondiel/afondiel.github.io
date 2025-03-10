@@ -3,13 +3,13 @@ main:
   #   url: /home
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Blog"
-    url: /posts/
   - title: "Expertise"
     url: /services/
-  - title: "Resume"
-    url: /resume/
+  - title: "Blog"
+    url: /posts/
   - title: "About"
     url: /about/
+  - title: "Resume"
+    url: /resume/
   # - title: "Contact"
   #   url: /contact/
