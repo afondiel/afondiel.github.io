@@ -108,7 +108,7 @@ plugins:
 author:
   name   : "Afonso Diela"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "Bringing Advanced AI to the Edge."
+  bio    : "Bringing Intelligence to the Edge."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
