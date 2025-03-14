@@ -87,9 +87,9 @@ From Research to Production: Industry-Aware Edge AI, Computer Vision, and Percep
 <div style="margin-top: 0 10px; text-align: left;">
 <form action="https://formspree.io/f/xanenwpg" method="POST">
     <label for="name" style="margin-top: 10px;">Name</label><br>
-    <input name="name" id="name" type="text" required style="width: 100%;" placeholder="John Doe"><br>
+    <input name="name" id="name" type="text" required style="width: 100%;" placeholder="Enter your name"><br>
     <label for="email" style="margin-top: 10px;">Email</label><br>
-    <input name="email" id="email" type="email" required style="width: 100%;" placeholder="you@example.com"><br>
+    <input name="email" id="email" type="email" required style="width: 100%;" placeholder="Enter your email"><br>
     <label for="industry" style="margin-top: 10px;">Industry</label><br>
     <select name="industry" id="industry" style="width: 100%;">
         <option value="" disabled selected>Select your industry</option>
