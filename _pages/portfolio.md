@@ -11,10 +11,6 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 
 ## Computer Vision Real-World Applications
 
-### Computer Vision End to End Stack
-<!--Computer vision end-to-end stack-->
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)
-
 ### Classification Stack: CNN, ViT
 
 **CIFAR-10 Image Classification**
@@ -34,7 +30,7 @@ Using Convolutional Neural Networks (CNNs) to classify images of different types
 <!-- ### Segmentation Stack: semantic, instance, panoptic
 
 <!--Segmentation Stack: semantic, instance, panoptic-->
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)  -->
+<!-- [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)   -->
 
 ### Multimodality (VLMs: GANs, VAEs, Diffusers ...)
 
