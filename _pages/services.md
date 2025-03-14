@@ -82,13 +82,35 @@ From Research to Production: Industry-Aware Edge AI, Computer Vision, and Percep
     └── Realtime App/Model Serving: Flask, FastAPI, WebSocket/WSS  
 ``` 
 
-<div style="margin-top: 20px; text-align: center;">
-    <p style="font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;">Need a custom Edge AI solution?    
-    </p>
-    <div style="margin-top: 20px;"> 
-        <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
-        <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let's Talk</a>
+## Need a custom Edge AI solution? Let's Talk.
+
+<div style="margin-top: 0 10px; text-align: left;">
+<form action="https://formspree.io/f/xanenwpg" method="POST">
+    <label for="email" style="margin-top: 10px;">Your Email</label><br>
+    <input name="email" id="email" type="email" required style="width: 100%;" placeholder="Enter your email"><br>
+    <label for="industry" style="margin-top: 10px;">Your Industry</label><br>
+    <select name="industry" id="industry" style="width: 100%;">
+        <option value="" disabled selected>Select your industry</option>
+        <option value="Agriculture">Agriculture</option>
+        <option value="Automotive">Automotive</option>
+        <option value="Manufacturing">Manufacturing</option>
+        <option value="Retail">Retail</option>
+        <option value="Robotics">Robotics</option>
+        <option value="Security">Security</option>
+        <option value="Smart Cities">Smart Cities</option>
+        <option value="UAVs">UAVs</option>
+        <option value="Other">Other</option>
+    </select><br>
+    <label for="message" style="margin-top: 20px;">How Can I Help You?</label><br>
+    <textarea name="message" id="message" required style="width: 100%; height: 150px;" placeholder="Describe your needs"></textarea><br>
+    <div style="margin-top: 10px; text-align: center;">
+        <button type="submit" class="btn btn--primary" style="margin: 0 10px;">Send</button>
     </div>
+</form>
 </div>
 
-<!-- Add a contact form for magnets: whitepapers, PoC-20 access, free trial toolkit: atedge ... -->
+<!-- ## Resources -->
+<!--Add Resources section for Magnet-->
+<!-- magnets: whitepapers, PoC-20 access, free trial toolkit: atedge ... -->
+<!--Edge AI Deployment Checklist-->
+<!-- a free PDF: "Edge AI Deployment Checklist: Optimize Models for Any Industry." -->
