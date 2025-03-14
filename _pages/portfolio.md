@@ -39,7 +39,7 @@ Using Convolutional Neural Networks (CNNs) to classify images of different types
 <!--Multimodality (VLMs: GANs, VAEs, Diffusers ...-->
 **AI Assisted Image Editing and Manipulation**
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge) [![Demo on HF Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/afondiel/image-colorizer-deoldify)
 
 This is an AI Image Editing and Manipulation tool for Image creation, editing and manipulation.
 
@@ -176,7 +176,9 @@ This case study demonstrates how to deploy a semantic segmentation model optimiz
 
 ## Case Studies
 
-### Self-Driving Car Environment Perception
+### Autonomous Systems (Self-Driving Cars/ADAS, Robotics, UAVs)
+
+**Self-Driving Car Environment Perception**
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-projects/tree/main/p7-self-driving-car-environment-perception)
 
@@ -184,7 +186,7 @@ Self-Driving Car foundational perception stack, which extracts useful informatio
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p7-self-driving-car-environment-perception/doc/final-project-segNet.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
-### End-to-End Self-Driving Car Behavioral Cloning
+**End-to-End Self-Driving Car Behavioral Cloning**
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/tree/master)
 
