@@ -137,14 +137,6 @@ This case study demonstrates how to deploy a semantic segmentation model optimiz
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/blog-posts/edge-ai/101/ffnet-seg.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
-### ⚡ SmartMeterSim: Edge-to-Cloud <=> Cloud-to-Edge Energy Monitoring
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/SmartMeterSim) [![Demo on HF Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/afondiel/SmartMeterSim)
-
-⚡ SmartMeterSim is a production-ready IoT solution for real-time energy monitoring and optimization for smart grids, buildings, and Edge-to-Cloud applications.
-
-<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/SmartMeterSim/blob/main/resources/demo/cover.png?raw=true?" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
-
 ## Case Studies
 
 ### Self-Driving Car Environment Perception
@@ -163,6 +155,15 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/blob/master/docs/img/autonomous-mode.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+### Smart Cities 
+
+**⚡ SmartMeterSim: IoT Smart Meter Simulation**
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/SmartMeterSim) [![Demo on HF Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/afondiel/SmartMeterSim)
+
+⚡ SmartMeterSim is a production-ready IoT solution for real-time energy monitoring and optimization for smart grids, buildings, and Edge-to-Cloud applications.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/SmartMeterSim/blob/main/resources/demo/cover.png?raw=true?" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
 ## Resources: Edge AI & Computer Vision 
 
