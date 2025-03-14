@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Afonso Diela" # alias(diela.io/muntu.ai/muntu.io)
+title: "Afonso Diela - Edge AI Engineer" # alias(diela.io/muntu.ai/muntu.io)
 masthead_title: " "
 logo: "/assets/images/logo-88x88.jpg" 
 email: a.diela.pro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Afonso Diela's Portfolio! 
+  Afonso Diela, Edge AI Engineer specializing in optimizing and deploying computer vision solutions for autonomous systems, healthcare, smart cities, and more.
 # baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "https://afondiel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: afondiel
