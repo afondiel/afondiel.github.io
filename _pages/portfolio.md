@@ -15,6 +15,7 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 <!--classification Stack: CNN, ViT-->
 
 **CIFAR-10 Image Classification**
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge/blob/main/L1_02_CIFAR_10_Image_Classification/notebooks/CIFAR_10_Image_Classification.ipynb) 
 
 Using Convolutional Neural Networks (CNNs) to classify images of different types of objects from the CIFAR-10 dataset.
@@ -23,6 +24,7 @@ Using Convolutional Neural Networks (CNNs) to classify images of different types
 <!--Object Detection Stack: 2D, 3D, 4D-->
 
 **2D Object Detection with YOLOv5**
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge/blob/main/L1_03_Object_Detection_with_YOLOv_/notebooks/Object_Detection_with_YOLOv5.ipynb) 
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/portfolio_assets/the-beatles.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
@@ -36,6 +38,7 @@ Using Convolutional Neural Networks (CNNs) to classify images of different types
 
 <!--Multimodality (VLMs: GANs, VAEs, Diffusers ...-->
 **AI Assisted Image Editing and Manipulation**
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge) 
 
 This is an AI Image Editing and Manipulation tool for Image creation, editing and manipulation.
@@ -43,6 +46,7 @@ This is an AI Image Editing and Manipulation tool for Image creation, editing an
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/computer-vision-challenge/blob/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation/docs/pipeline-last.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
 **Multimodal AI Storyteller**
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge/tree/main/L2_05_AI_Driven_Image_Captioning_and_Storytelling) 
 
 Generate text and audio stories from image.
