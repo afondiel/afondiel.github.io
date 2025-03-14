@@ -206,7 +206,6 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 ## Resources: Edge AI & Computer Vision 
 
-- [Edge AI Ecosystem](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications)
 - [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering)
 - [Edge Vision](https://github.com/afondiel/edge-vision)
 - [Edge AI Model Zoo](https://github.com/afondiel/Edge-AI-Model-Zoo)
@@ -214,6 +213,7 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 - [Edge AI Benchmarks & Evaluation](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-eval-benchmarking-guide.md)
 - [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
 - [Edge AI Qualcomm Stack](https://www.qualcomm.com/developer/artificial-intelligence)
+- [Edge AI Ecosystem](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications)
 - [Edge AI Books](https://github.com/afondiel/cs-books/tree/main/edge)
 - [Edge AI Blog](https://afondiel.github.io/posts/)
 
