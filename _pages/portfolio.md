@@ -163,19 +163,24 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/blob/master/docs/img/autonomous-mode.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
+
+## Resources: Edge AI & Computer Vision 
+
+- [Edge AI Ecosystem](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications)
+- [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering)
+- [Edge Vision](https://github.com/afondiel/edge-vision)
+- [Edge AI Model Zoo](https://github.com/afondiel/Edge-AI-Model-Zoo)
+- [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
+- [Edge AI Benchmarks & Evaluation](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-eval-benchmarking-guide.md)
+- [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
+- [Edge AI Qualcomm Stack](https://www.qualcomm.com/developer/artificial-intelligence)
+- [Edge AI Books](https://github.com/afondiel/cs-books/tree/main/edge)
+- [Edge AI Blog](https://afondiel.github.io/posts/)
+
 - [⬆️ Back to the Top ⬆️](#computer-vision-challenge-)
 
-## More Projects & Solutions
-
-- Explore more projects & solutions [here](https://github.com/diesimo-ai).
-
-<!-- Add a contact form for magnets: whitepapers, PoC-20 access, free trial toolkit: atedge ... -->
-
-<div style="margin-top: 20px; text-align: center;">
-    <p style="font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;">Need a custom Edge AI solution?    
-    </p>
-    <div style="margin-top: 20px;"> 
-        <a href="https://bit.ly/3ZGRLyo" class="btn btn--primary" style="margin: 0 10px;">Let’s Talk</a>
-    </div>
-</div>
-
+<!-- ## Resources -->
+<!--Add Resources section for Magnet-->
+<!-- magnets: whitepapers, PoC-20 access, free trial toolkit: atedge ... -->
+<!--Edge AI Deployment Checklist-->
+<!-- a free PDF: "Edge AI Deployment Checklist: Optimize Models for Any Industry." -->
