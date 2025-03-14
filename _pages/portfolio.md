@@ -11,19 +11,58 @@ Explore my cutting-edge computer vision solutions addressing real-world challeng
 
 ## Computer Vision Real-World Applications
 
-### Computer Vision Challenge 🏆
+### Computer Vision End to End Stack
+<!--Computer vision end-to-end stack-->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge) [![Demo on HF Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/afondiel/image-colorizer-deoldify)
+### Classification Stack: CNN, ViT
 
-A hands-on collection of computer vision projects designed for all skill levels—beginners to experts.
+**CIFAR-10 Image Classification**
+<!--classification Stack: CNN, ViT-->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge/blob/main/L1_02_CIFAR_10_Image_Classification/notebooks/CIFAR_10_Image_Classification.ipynb) 
 
-**Challenge Levels**
-- **Level 0** - Beginner: Basics of image processing and OpenCV.
-- **Level 1** - Intermediate: Build deep learning models with PyTorch/TensorFlow.
-- **Level 2** - Hero: Explore image generation and inpainting with LVMs.
-- **Level 3** - Advanced (ongoing): Benchmark video models for action recognition.
-- **Level 4** - Expert (ongoing): Fine-tune VLMs and LVMs for custom datasets.
-- **Level 5** - Master (ongoing): Build multimodal AI systems combining vision, text, and more. 
+Using Convolutional Neural Networks (CNNs) to classify images of different types of objects from the CIFAR-10 dataset.
+
+### Object Detection Stack: 2D, 3D
+
+**2D Object Detection with YOLOv5**
+<!--Object Detection Stack: 2D, 3D, 4D-->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge/blob/main/L1_03_Object_Detection_with_YOLOv_/notebooks/Object_Detection_with_YOLOv5.ipynb) 
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="/assets/images/portfolio_assets/the-beatles.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+<!-- ### Segmentation Stack: semantic, instance, panoptic
+
+<!--Segmentation Stack: semantic, instance, panoptic-->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge)  -->
+
+### Multimodality (VLMs: GANs, VAEs, Diffusers ...)
+
+**AI Assisted Image Editing and Manipulation**
+<!--Multimodality (VLMs: GANs, VAEs, Diffusers ...-->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge) 
+
+This is an AI Image Editing and Manipulation tool for Image creation, editing and manipulation.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/computer-vision-challenge/blob/main/L2_06_AI_Assisted_Image_Editing_and_Manipulation/docs/pipeline-last.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+
+**Multimodal AI Storyteller**
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge/tree/main/L2_05_AI_Driven_Image_Captioning_and_Storytelling) 
+
+Generate text and audio stories from image.
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/computer-vision-challenge/blob/main/L2_05_AI_Driven_Image_Captioning_and_Storytelling/docs/storyteller_pipeline.png?raw=true
+" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+
+### Motion & Video Analysis: Tracking & Flow
+
+**2D Object Tracking with OpenCV and Deep Learning**
+<!--Motion & Video Analysis: Tracking & Flow-->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/afondiel/computer-vision-challenge/tree/main/L1_06_2D_Object_Tracking) 
+
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/computer-vision-challenge/blob/main/L1_06_2D_Object_Tracking/goturn.jpg?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
 ## Perception
 
