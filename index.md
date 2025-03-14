@@ -31,8 +31,8 @@ pagination:
 </div>
 
 <div style="text-align: center; margin-top: 10px;"> 
-  <p style="font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;">
-  Bringing cutting-edge AI and Computer Vision solutions to the Edge.
+  <p style="font-size: 0.9em; color: #666; max-width: 600px; margin: 0 auto;">
+  I optimize AI models for edge devices, delivering fast, efficient, and scalable computer vision solutions for smarter industries.
   </p>
   <div style="margin-top: 20px;"> 
     <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
