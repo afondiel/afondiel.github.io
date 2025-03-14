@@ -109,8 +109,3 @@ From Research to Production: Industry-Aware Edge AI, Computer Vision, and Percep
 </form>
 </div>
 
-<!-- ## Resources -->
-<!--Add Resources section for Magnet-->
-<!-- magnets: whitepapers, PoC-20 access, free trial toolkit: atedge ... -->
-<!--Edge AI Deployment Checklist-->
-<!-- a free PDF: "Edge AI Deployment Checklist: Optimize Models for Any Industry." -->
