@@ -18,7 +18,7 @@ pagination:
         <img src="assets/images/hf-logo.svg" alt="Hugging Face" style="width: 40px; height: 40px; margin-top: -10px;">
       </a>
       <a href="https://www.kaggle.com/thepostitguy" target="_blank">
-        <i class="fab fa-kaggle" style="font-size: 30px; color: #20BEFF;"></i>
+        <i class="fab fa-kaggle" style="font-size: 28px; color: #20BEFF;"></i>
       </a>
       <a href="https://twitter.com/muntudiela" target="_blank">
         <i class="fa-brands fa-square-x-twitter" style="font-size: 30px; color: #000000;"></i>
