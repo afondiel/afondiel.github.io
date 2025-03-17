@@ -100,10 +100,10 @@ toc_icon: "bookmark"
 
 ## **EDUCATION**
 
-- **Electrical Engineering & Industrial Computing** (Master's degree), [ENSEA](https://www.ensea.fr/en) – Cergy, France
-  - Specialized in Embedded Systems
-- **Electrical Engineering and Industrial Computing** (Bachelor's degree), [Institute of Technology of Cherbourg-Manche](http://iutcherbourgmanche.unicaen.fr/bachelor-universitaire-de-technologie/nos-parcours-de-but/geii-reseaux-automatismes-nouvelles-technologies-/genie-electrique-et-informatique-industrielle-34554.kjsp)
-  - Specialized in Control & Industrial Computing
+- **Electrical Engineering & Industrial Computing** (Master's degree), [ENSEA](https://www.ensea.fr/en) – Cergy, France (2019)
+  - *Specialized in Embedded Systems*
+- **Electrical Engineering and Industrial Computing** (Bachelor's degree), [Institute of Technology of Cherbourg-Manche](https://uniform.unicaen.fr/catalogue/formation/but/6763-bachelor-universitaire-de-technologie-genie-electrique-et-informatique-industrielle?lang=en) (2014)
+  - *Specialized in Control & Industrial Computing*
 
 ## **CERTIFICATIONS (20+)**
 
