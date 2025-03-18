@@ -38,8 +38,9 @@ toc_icon: "bookmark"
 | 3D Vision & Sensor Fusion (Camera, LiDAR, RADAR) |
 | Deep Learning: CNNs, ViTs, GANs, Diffusers |
 | Edge AI Deployment (MCUs, Raspberry Pi, Jetson, Qualcomm AI Hub, Edge Impulse) |
-|Robotics: ROS|
+|Robotics: ROS/ROS2|
 | Cloud: AWS, AWS IoT, GCP, Colab, Edge Impulse, Qualcomm AI Hub|
+|AI Hub/Community: Hugging Face, Kaggle, Github|
 
 ### **Programming & Development Tools**
 
