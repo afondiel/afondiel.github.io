@@ -26,6 +26,7 @@ toc_icon: "bookmark"
 | Peripherals configuration (ADC, I/O, I2C/SPI, CAN) |
 | Real-time implementation & optimization |
 | RTOS: FreeRTOS, VxWorks, Linux Embedded |
+| Embedded Platform: MCUs, Arduino UNO/Nano Sense 33, Raspberry Pi, Jetson Nano|
 | Parallelization & Hardware acceleration (OpenCL, CUDA) |
 | Standards: MISRA, AUTOSAR, ISO26262, J3016, J1939, UDS|
 
@@ -34,24 +35,25 @@ toc_icon: "bookmark"
 | Skill |
 | ------------------------------------------------------ |
 | Image & Video Processing (OpenCV, YOLO, ...) |
-| AI Model Deployment (ONNX, LiteRT, TensorRT, Amet) |
-| 3D Vision & Sensor Fusion (Camera, LiDAR, RADAR) |
 | Deep Learning: CNNs, ViTs, GANs, Diffusers |
-| Edge AI Deployment (MCUs, Raspberry Pi, Jetson, Qualcomm AI Hub, Edge Impulse) |
-|Robotics: ROS/ROS2|
+| AI Model Deployment (ONNX, LiteRT, AIMET, TensorRT, OpenVINO) |
+| 3D Vision & Sensor Fusion (Camera, LiDAR, RADAR) |
+| Robotics: SLAM, ROS/ROS2|
+| Edge AI Deployment (MCUs, Raspberry Pi, Jetson Nano, Qualcomm AI Hub, Edge Impulse) |
 | Cloud: AWS, AWS IoT, GCP, Colab, Edge Impulse, Qualcomm AI Hub|
-|AI Hub/Community: Hugging Face, Kaggle, Github|
+| AI Hub/Community: Hugging Face, Kaggle, Github|
 
 ### **Programming & Development Tools**
 
 | Skill |
 | ---------------------------------------- |
-| Languages: C, C++, Python, Rust, Bash/Batch |
+| Languages: Assembly, C, C++, Python, Rust, Bash/Batch |
 | AI Frameworks: PyTorch, TensorFlow, Keras |
-| Embedded Dev Tools: VSCode, Eclipse, Tasking|
+| Embedded Dev Tools: VSCode, Cursor, Eclipse|
 | Version Control: Git, SVN, Github |
-| Debugging: UDE (PLS), JTAG, gdb, Vector Canalyzer/CANoe |
-| Agile: CI/CD Pipelines |
+| Agile: Kanban, SCRUM, SAFe, CI/CD Pipelines |
+| Debugging & Profiling: UDE (PLS), JTAG, gdb/gprof, Vector Canalyzer/CANoe |
+| Virtualization: VM, Docker, WSL|
 | Simulation: Openai/Gym, CARLA, Udacity Self-Driving Cars |
 
 ## **APPLICATION ENVIRONMENTS**
