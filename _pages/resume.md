@@ -26,7 +26,7 @@ toc_icon: "bookmark"
 | Peripherals configuration (ADC, I/O, I2C/SPI, CAN) |
 | Real-time implementation & optimization |
 | RTOS: FreeRTOS, VxWorks, Linux Embedded |
-| Embedded Platform: MCUs, Arduino UNO/Nano Sense 33, Raspberry Pi, Jetson Nano|
+| Embedded Platform: MCUs, Arduino UNO/Nano 33, Raspberry Pi, Jetson Nano|
 | Parallelization & Hardware acceleration (OpenCL, CUDA) |
 | Standards: MISRA, AUTOSAR, ISO26262, J3016, J1939, UDS|
 
@@ -36,10 +36,10 @@ toc_icon: "bookmark"
 | ------------------------------------------------------ |
 | Image & Video Processing (OpenCV, YOLO, ...) |
 | Deep Learning: CNNs, ViTs, GANs, Diffusers |
+| Classification, Object Detection, Segmentation (Semantic, instance)|
+| Robotics: 3D Vision & Sensor Fusion (Camera, LiDAR, RADAR), SLAM, ROS/ROS2|
 | AI Model Deployment (ONNX, LiteRT, AIMET, TensorRT, OpenVINO) |
-| 3D Vision & Sensor Fusion (Camera, LiDAR, RADAR) |
-| Robotics: SLAM, ROS/ROS2|
-| Edge AI Deployment (MCUs, Raspberry Pi, Jetson Nano, Qualcomm AI Hub, Edge Impulse) |
+| Edge AI Platform (MCUs, Raspberry Pi, Jetson, Qualcomm AI Hub, Edge Impulse) |
 | Cloud: AWS, AWS IoT, GCP, Colab, Edge Impulse, Qualcomm AI Hub|
 | AI Hub/Community: Hugging Face, Kaggle, Github|
 
