@@ -204,15 +204,14 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 <p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/SmartMeterSim/blob/main/resources/demo/cover.png?raw=true?" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
-## Resources: Edge AI & Computer Vision 
+## Edge AI Resources
 
-- [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering) 
-- [Edge Vision](https://github.com/afondiel/edge-vision)
+- [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering)
+- [Edge AI Stack](https://www.qualcomm.com/developer/artificial-intelligence)
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
 - [Edge AI Model Zoo](https://github.com/afondiel/Edge-AI-Model-Zoo)
-- [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/frameworks)
+- [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
 - [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
-- [Edge AI Qualcomm Stack](https://www.qualcomm.com/developer/artificial-intelligence)
 - [Edge AI Benchmarking & Optimization](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-prof-opt-guide.md)
 - [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
 - [Edge AI Ecosystem](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications)
