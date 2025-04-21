@@ -9,7 +9,7 @@ pagination:
   <img src="../assets/images/profile_800_800.jpg" alt="Profile Image" style="width: 180px; height: 180px; border-radius: 50%;">
   <div>
     <h2 style="margin: 0;">Afonso Diela</h2>
-    <p style="margin: 5px 0; color: #666;">Edge AI/ML Software Engineer.</p>
+    <p style="margin: 5px 0; color: #666;">Edge AI Engineer.</p>
     <div style="display: flex; gap: 10px; margin-top: 10px;">
       <a href="https://github.com/afondiel" target="_blank">
         <i class="fab fa-github" style="font-size: 30px; color: #333;"></i>
