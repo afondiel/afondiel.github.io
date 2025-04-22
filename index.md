@@ -35,7 +35,7 @@ pagination:
 
 <div style="text-align: center; margin-top: 10px;"> 
   <p style="font-size: 0.9em; color: #666; max-width: 600px; margin: 0 auto;">
-  I optimize AI models for edge devices, delivering fast, efficient, and scalable computer vision solutions for smarter industries.
+  I optimize and deploy AI models on edge devices, delivering fast, efficient, and scalable computer vision solutions for smarter industries.
   </p>
   <div style="margin-top: 20px;"> 
     <a href="/portfolio/" class="btn btn--primary" style="margin: 0 10px;">Portfolio</a>
