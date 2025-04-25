@@ -27,7 +27,10 @@ group :jekyll_plugins do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+# Windows Directory Monitor (WDM) is only needed on Windows systems
+if Gem.win_platform?
+  gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+end
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.

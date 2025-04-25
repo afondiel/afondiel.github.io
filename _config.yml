@@ -168,3 +168,7 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
+
+# sass:
+#   sass_dir: _sass
+#   style: compressed
