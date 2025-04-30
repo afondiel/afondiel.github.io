@@ -5,10 +5,12 @@ main:
     url: /portfolio/
   - title: "Expertise"
     url: /services/
-  - title: "Blog"
-    url: /posts/
   - title: "Resume"
     url: /resume/
+  - title: "Blog"
+    url: /posts/
+  - title: "Resources"
+    url: /resources/
   - title: "About"
     url: /about/
   # - title: "Contact"
