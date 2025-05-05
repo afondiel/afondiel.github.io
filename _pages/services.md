@@ -8,7 +8,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-From Research to Production: Industry-Aware Edge AI, Computer Vision, and Perception Solutions for Real-World Applications.
+From research to production-ready real-world Edge AI and Computer Vision solutions for smart industries.
 
 ## Solution Map
 
