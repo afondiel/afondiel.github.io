@@ -184,7 +184,7 @@ This case study demonstrates how to deploy a semantic segmentation model optimiz
 
 Self-Driving Car foundational perception stack, which extracts useful information from its surroudings and perform complex tasks in order to drive safely through the world
 
-<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/blob/main/p7-self-driving-car-environment-perception/doc/final-project-segNet.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-projects/raw/main/p7-self-driving-car-environment-perception/doc/final-project-segNet.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
 **End-to-End Self-Driving Car Behavioral Cloning**
 
@@ -192,7 +192,7 @@ Self-Driving Car foundational perception stack, which extracts useful informatio
 
 End-to-End self-driving car behavioral cloning implementation based on NVIDIA End-to-End Learning [paper](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) using computer vision, deep learning,  and realtime visual data from [Udacity Self-Driving Car simulator](https://github.com/udacity/self-driving-car-sim).
 
-<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/blob/master/docs/img/autonomous-mode.png?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/self-driving-car-behavioral-cloning/raw/master/docs/img/autonomous-mode.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
 ### Smart Cities 
 
@@ -202,8 +202,8 @@ End-to-End self-driving car behavioral cloning implementation based on NVIDIA En
 
 ⚡ SmartMeterSim is a production-ready IoT solution for real-time energy monitoring and optimization for smart grids, buildings, and Edge-to-Cloud applications.
 
-<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/SmartMeterSim/blob/main/resources/demo/cover.png?raw=true?" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
+<p style="text-align: center;"> <img loading="lazy" decoding="async" class="aligncenter size-full" src="https://github.com/afondiel/SmartMeterSim/raw/main/resources/demo/cover.png" style="max-width: 100%; height: auto;" width="1280" height="720"></p>
 
 
-[⬆️ Back to the Top ⬆️](#computer-vision-challenge-)
+[⬆️ Back to the Top ⬆️](#computer-vision-real-world-applications)
 
