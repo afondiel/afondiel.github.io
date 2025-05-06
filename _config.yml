@@ -134,7 +134,11 @@ footer:
       url: "https://linkedin.com/in/afonso-diela/"
     - label: "X (Twitter)"
       icon: "fa-brands fa-square-x-twitter"
-      url: "https://twitter.com/muntudiela"
+      url: "https://twitter.com/muntudiela"    
+    - label: "Join Newsletter"
+      icon: "fal fa-newspaper"
+      url: "https://www.linkedin.com/newsletters/edge-ai-insights-7325499941039071232/"
+  # newsletter: true  # Add this line to enable newsletter
 defaults:
   # _posts
   - scope:
