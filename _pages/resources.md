@@ -6,25 +6,8 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-> "What we cannot create, we do not understand." - [Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman)  
-
-<p style="text-align: center;"> <img loading="lazy" alt="Edge AI Lab" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/diesimo-lab/blob/main/resources/images/cover.jpeg?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://github.com/diesimo-ai/diesimo-lab">Diesimo Lab</a> - My Edge AI Homelab</p></p>
-
 ### New to Edge AI? 
 - Start Here: [Edge AI Blog Library](https://afondiel.github.io/posts/)
-
-### Edge AI Engineering
-
-- [Edge AI Engineering (Main)](https://github.com/afondiel/edge-ai-engineering)
-- [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
-- [Edge AI End-to-End Stack](https://www.qualcomm.com/developer/artificial-intelligence)
-- [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
-- [Edge AI Optimization Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/optimization)
-- [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
-- [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
-- [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
-- [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-guide.md)
-- [Edge AI Papers](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/resources/edge_ai_papers_news.md)
 
 ### Getting Started
 
@@ -58,6 +41,19 @@ Collections of notebooks examples on how to optimize and deploy AI models on edg
     </div>
   </form>
 </section>
+
+### Edge AI Engineering
+
+- [Edge AI Engineering (Main)](https://github.com/afondiel/edge-ai-engineering)
+- [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
+- [Edge AI End-to-End Stack](https://www.qualcomm.com/developer/artificial-intelligence)
+- [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
+- [Edge AI Optimization Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/optimization)
+- [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
+- [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
+- [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
+- [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-guide.md)
+- [Edge AI Papers](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/resources/edge_ai_papers_news.md)
 
 ### Misc
 - [Edge AI Ecosystem: Who's Ahead?](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications)
