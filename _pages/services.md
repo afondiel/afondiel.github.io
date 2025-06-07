@@ -8,33 +8,37 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-From research to production-ready real-world Edge AI and Computer Vision solutions for smart industries.
+> "What we cannot create, we do not understand." - [Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman)  
+
+<p style="text-align: center;"> <img loading="lazy" alt="Edge AI Lab" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/diesimo-lab/blob/main/resources/images/cover.jpeg?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://github.com/diesimo-ai/diesimo-lab">Diesimo Lab</a> - My Edge AI Homelab</p></p>
 
 ## Solution Map
+
+From research to production-ready real-world Edge AI and Computer Vision solutions for smart industries.
 
 ### Edge AI
 ```
 ├── End-to-End Edge AI Stack            
 │   ├── Data Acquisition (Sensors: Camera, LiDAR ...)
-│   ├── Modeling        
-│   ├── Optimization                   
-│   ├── Deployment (TensorRT, OpenVINO, Qualcomm AI Hub, Onnx, LiteRT, ExecuTorch)       
+│   ├── Model Design (Efficiency-Aware, NAS ...)       
+│   ├── Optimization (Quantization, Prunning, Distillation, fine-tuning )                   
+│   ├── Deployment (ONNX/Onnxruntime, LiteRT, AIMET, TensorRT, OpenVINO, ...)       
 │   └── Profiling/Monitoring (Qualcomm AI Hub, Edge Impulse..)
-├── Model and HW Optimization (runtime/inference engine, accelerators...)
-│   ├── Compression: Quantization, Distillation, Prunning 
-│   ├── Job Specialization: transfer learning, fine-tuning                                   
-│   └── Resource-efficiency: Computation (GOPS), Memory (MB), Energy (OPS/W)
+├── Hardware-Aware Optimization
+│   ├── Runtime/inference engine: Onnxruntime, custom inference engines
+│   ├── Energy/Power Consumption (OPS/W): Battery-based devices (W => mW)                                     
+│   └── AI Accelerators: Multi-CPUs, GPUs, NPUs
 └── Deployment at the Edge: Target Platform
     ├── Smart Devices: Smartphones, Wearable Devices                                                     
-    └── Embedded Devices: NVIDIA Jetson Nano, Raspberry Pi, MCUs ...  
+    └── Embedded/IoT Devices: MCUs, Raspberry Pi, NVIDIA Jetson Nano 
 ```
 
 ### Computer Vision
 ```
 ├── End-to-End Computer Vision Stack            
 │   ├── Data Acquisition/Labeling
-│   ├── Modeling        
-│   ├── Deployment (Cloud, Edge Devices)        
+│   ├── Model Design (Efficiency-aware)        
+│   ├── Deployment (Edge Devices, Cloud)        
 │   └── Monitoring
 └── Computer Vision Applications
     ├── Classification
