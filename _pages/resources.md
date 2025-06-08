@@ -11,7 +11,7 @@ toc_icon: "bookmark"
 
 ### Quick Start
 
-Explore Edge AI through hands-on examples including notebooks, real-world use cases using SOTA AI frameworks.
+Get started with Edge AI through hands-on examples including practical notebooks and real-world use cases using SOTA AI frameworks.
 - [Deploy with any framework, on any platform](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
 
 <section id="lead-magnet" style="background: #0092CA; color: white; padding: 20px; border-radius: 8px;">
