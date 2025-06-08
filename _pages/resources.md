@@ -9,10 +9,10 @@ toc_icon: "bookmark"
 ### New to Edge AI? 
 - Start Here: [Edge AI Blog Library](https://afondiel.github.io/posts/)
 
-### Getting Started
+### Quick Start
 
-Collections of notebooks examples on how to optimize and deploy AI models on edge devices with various AI frameworks and languages.
-- [Deploy with any framework, on any platform](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
+Explore Edge AI through hands-on examples including notebooks, real-world use cases using SOTA AI frameworks.
+- [Deploy with any framework, on any platform](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples)
 
 <section id="lead-magnet" style="background: #0092CA; color: white; padding: 20px; border-radius: 8px;">
   <h2>Edge AI Deployment Checklist</h2>
@@ -42,7 +42,7 @@ Collections of notebooks examples on how to optimize and deploy AI models on edg
   </form>
 </section>
 
-### Edge AI Engineering
+### Edge AI Engineering: Technical Guide for Developers and Practitioners
 
 - [Edge AI Engineering (Main)](https://github.com/afondiel/edge-ai-engineering)
 - [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
