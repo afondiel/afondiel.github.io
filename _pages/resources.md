@@ -52,7 +52,7 @@ Get started with Edge AI through hands-on examples including practical notebooks
 - [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
 - [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
-- [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-guide.md)
+- [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Benchmarking)
 - [Edge AI Papers](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/resources/edge_ai_papers_news.md)
 
 ### Misc
