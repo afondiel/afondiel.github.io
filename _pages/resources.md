@@ -44,17 +44,18 @@ Get started with Edge AI through hands-on examples including practical notebooks
 
 ### Edge AI Engineering: Technical Guide for Developers and Practitioners
 
-- [Edge AI Engineering (Main)](https://github.com/afondiel/edge-ai-engineering)
-- [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
-- [Edge AI End-to-End Stack](https://www.qualcomm.com/developer/artificial-intelligence)
+- [Edge AI Engineering Reference Guide](https://github.com/afondiel/edge-ai-engineering)
+- [Edge AI End-to-End MLOps Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/mlops)
 - [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
 - [Edge AI Optimization Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/optimization)
 - [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
 - [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
 - [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Benchmarking)
-- [Edge AI Papers](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/resources/edge_ai_papers_news.md)
+- [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
 
-### Misc
+### Research
+
 - [Edge AI Ecosystem: Who's Ahead?](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/industry-applications)
+- [Edge AI Papers](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/resources/edge_ai_papers_news.md)
 - [Edge AI Books](https://github.com/afondiel/cs-books/blob/main/README.md#edge-computing)
