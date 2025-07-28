@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 
 > "What we cannot create, we do not understand." - [Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman)  
 
-<p style="text-align: center;"> <img loading="lazy" alt="Edge AI Lab" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/diesimo-lab/blob/main/resources/images/cover.jpeg?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://github.com/diesimo-ai/diesimo-lab">Diesimo Lab</a> - My Edge AI Homelab</p></p>
+<p style="text-align: center;"> <img loading="lazy" alt="Edge AI Lab" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/diesimo-lab/blob/main/resources/images/cover.jpeg?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://github.com/diesimo-ai/diesimo-lab">Diesimo Lab</a>: an Open Lab for Edge Intelligence.</p></p>
 
 ## Solution Map
 
