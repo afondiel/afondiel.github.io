@@ -18,7 +18,17 @@ My mission is to leverage my deep expertise in Edge AI, embedded systems, and co
 
 ## Interests
 
-### Passion for Cognitive Science and AI
+### Passion for Physics, Cognitive Science and AI
+
+**Physics**
+
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="max-width: 600px;">
+    <img src="../assets/images/milk_way_1500x500.jpeg" alt="Chess" style="width: 100%; height: 50%;"><p> <a href="https://en.wikipedia.org/wiki/Milky_Way"> Our Beautiful Galaxy</a></p>
+  </div>
+</div>
+
+From a young age, I was fascinated by the underlying physics of everything around me—how the real world works. This curiosity led me to explore how we can model, simulate, and understand complex systems that interact with the physical world, a journey that ultimately brought me to engineering.
 
 - **Chess** ♟
 
