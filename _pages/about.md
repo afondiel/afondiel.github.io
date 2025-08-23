@@ -20,7 +20,7 @@ My mission is to leverage my deep expertise in Edge AI, embedded systems, and co
 
 ### Passion for Physics, Cognitive Science and AI
 
-**Physics**
+- **Physics**
 
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="max-width: 600px;">
