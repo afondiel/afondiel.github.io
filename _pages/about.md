@@ -5,7 +5,7 @@ permalink: /about/
 
 #### Hello World! 
 
-I am Afonso Diela, an **Edge AI/ML and Computer Vision Engineer** based in Paris, with over 5 years of experience delivering software solutions in the automotive industry. I specialize in designing, optimizing, and deploying deep learning models on embedded and edge devices for real-world applications across multiple industries.
+I am Afonso Diela,  an **Edge AI/ML and Computer Vision Engineer** based in Paris, with over 5 years of experience delivering software solutions in the automotive industry. I specialize in designing, optimizing, and deploying deep learning models on embedded and edge devices for real-world applications across multiple industries.
 
 I hold a **Master’s in Electrical Engineering and Industrial Computing** from [ENSEA](https://www.ensea.fr/) (France), with a focus on Embedded Systems. Additionally, I completed specialized training in self-driving technologies from the **[University of Toronto](https://drive.google.com/file/d/1wlgQ-GwoIgOL2Vow7FwiiunkZ4DbRg_c/view?usp=sharing)** and am a Certified Data Scientist by [IBM](https://drive.google.com/file/d/1cMWIpsucaRy8IGRQFemFAFhurRcslfLF/view?usp=sharing).
 
