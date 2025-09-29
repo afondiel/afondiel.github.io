@@ -5,7 +5,7 @@ title: "Expertise"
 # title: "Services"
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "bookmark"
+toc_icon: "bookmark" 
 ---
 
 > "What we cannot create, we do not understand." - [Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman)  
@@ -23,7 +23,7 @@ From research to production-ready real-world Edge AI and Computer Vision solutio
 │   ├── Model Design (Efficiency-Aware, NAS ...)       
 │   ├── Optimization (Quantization, Prunning, Distillation, fine-tuning )                   
 │   ├── Deployment (ONNX/Onnxruntime, LiteRT, AIMET, TensorRT, OpenVINO, ...)       
-│   └── Profiling/Monitoring (Qualcomm AI Hub, Edge Impulse..)
+│   └── Benchmarking and Profiling (Performance-Accuracy-Power envelope)
 ├── Hardware-Aware Optimization
 │   ├── Runtime/inference engine: Onnxruntime, custom inference engines
 │   ├── Energy/Power Consumption (OPS/W): Battery-based devices (W => mW)                                     
