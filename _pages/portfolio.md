@@ -5,14 +5,12 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-<!-- *Updated: 01/24/2025* -->
 
 Explore my cutting-edge computer vision solutions addressing real-world challenges in smart industries such as autonomous systems, healthcare, agriculture, and more. 
 
 ## Computer Vision Real-World Applications
 
 ### Classification Stack: CNN, ViT
-<!--classification Stack: CNN, ViT-->
 
 **CIFAR-10 Image Classification**
 
