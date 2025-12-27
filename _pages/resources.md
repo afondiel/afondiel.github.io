@@ -16,7 +16,7 @@ Get started with Edge AI through hands-on examples including practical notebooks
 
 <section id="lead-magnet" style="background: #0092CA; color: white; padding: 20px; border-radius: 8px;">
   <h2>Edge AI Deployment Checklist</h2>
-  <p>Get my free checklist to optimize and deploy AI models on edge devices.</p>
+  <p>Access your free step-by-step checklist for optimizing and deploying AI models on edge devices.</p>
   <form action="https://formspree.io/f/xkgjgwkr" method="POST">
     <label for="name">Your Name</label>
     <input name="name" id="name" type="text" required placeholder="John Doe" style="width: 100%; padding: 8px; margin-bottom: 15px;">
