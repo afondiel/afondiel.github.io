@@ -18,19 +18,22 @@ From research to production-ready real-world Edge AI and Computer Vision solutio
 
 ### Edge AI
 ```
-├── End-to-End Edge AI Stack            
-│   ├── Data Acquisition (Sensors: Camera, LiDAR ...)
+├── End-to-End Edge AI MLOps Stack            
+│   ├── Data Acquisition (Sensors: Microphones, Camera, LiDAR ...)
 │   ├── Model Design (Efficiency-Aware, NAS ...)       
-│   ├── Optimization (Quantization, Prunning, Distillation, fine-tuning )                   
-│   ├── Deployment (ONNX/Onnxruntime, LiteRT, AIMET, TensorRT, OpenVINO, ...)       
+│   ├── Deployment (Onnxruntime, LiteRT, AIMET, TensorRT, OpenVINO, ...)       
+│   ├── Optimization (Compression: Quantization, Prunning, Distillation, Fine-Tuning )                   
 │   └── Benchmarking and Profiling (Performance-Accuracy-Power envelope)
-├── Hardware-Aware Optimization
-│   ├── Runtime/inference engine: Onnxruntime, custom inference engines
+├── Hardware-Software Co-design & Optimization
+│   ├── Target Platform: Smart Devices: Smartphones, Wearable Devices 
+│   │   ├── Smart Devices: Smartphones, Wearable Devices                                                     
+│   │   └── Embedded/IoT Devices: MCUs, Raspberry Pi, NVIDIA Jetson Nano 
+│   ├── Runtime/inference engine: Onnxruntime, custom inference engines 
 │   ├── Energy/Power Consumption (OPS/W): Battery-based devices (W => mW)                                     
 │   └── AI Accelerators: Multi-CPUs, GPUs, NPUs
-└── Deployment at the Edge: Target Platform
-    ├── Smart Devices: Smartphones, Wearable Devices                                                     
-    └── Embedded/IoT Devices: MCUs, Raspberry Pi, NVIDIA Jetson Nano 
+└── Business Impact & Value
+    ├── ROI/TOC Modeling: cloud vs edge inference costs                                                  
+    └── Sustainibility Impact: energy efficiency and long-term operational cost savings
 ```
 
 ### Computer Vision
