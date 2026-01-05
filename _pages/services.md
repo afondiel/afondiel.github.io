@@ -32,8 +32,8 @@ From research to production-ready real-world Edge AI and Computer Vision solutio
 │   ├── Energy/Power Consumption (OPS/W): Battery-based devices (W => mW)                                     
 │   └── AI Accelerators: Multi-CPUs, GPUs, NPUs
 └── Business Impact & Value
-    ├── ROI/TOC Modeling: cloud vs edge inference costs                                                  
-    └── Sustainibility Impact: energy efficiency and long-term operational cost savings
+    ├── ROI/TOC Modeling: Cloud vs edge inference costs                                                  
+    └── Sustainibility Impact: Energy efficiency and long-term operational cost savings
 ```
 
 ### Computer Vision
