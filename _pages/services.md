@@ -12,7 +12,7 @@ toc_icon: "bookmark"
 
 <p style="text-align: center;"> <img loading="lazy" alt="Edge AI Lab" decoding="async" class="aligncenter size-full" src="https://github.com/diesimo-ai/diesimo-lab/blob/main/resources/images/cover.jpeg?raw=true" style="max-width: 100%; height: auto;" width="1280" height="720"> <p style="text-align: center;"><a href="https://github.com/diesimo-ai/diesimo-lab">Diesimo Lab</a>: An Open Research Lab for Edge Intelligence.</p></p>
 
-## Solution Map
+## Solution Tree 
 
 From research to production-ready real-world Edge AI and Computer Vision solutions for smart industries.
 
