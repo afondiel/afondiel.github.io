@@ -27,6 +27,7 @@ From research to production-ready real-world Edge AI and Computer Vision solutio
 ├── Hardware-Software Co-design & Optimization
 │   ├── Target Platform
 │   │   ├── Smart Devices: Smartphones, Wearable Devices                                                     
+│   │   ├── Desktop: Windows/Linux/Mac (local & private AI)                                                     
 │   │   └── Embedded/IoT Devices: MCUs, Raspberry Pi, NVIDIA Jetson Nano 
 │   ├── Runtime/inference engine: Onnxruntime, custom inference engines 
 │   ├── Energy/Power Consumption (OPS/W): Battery-based devices (W => mW)                                     
