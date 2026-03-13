@@ -21,7 +21,7 @@ From research to production-ready real-world Edge AI and Computer Vision solutio
 ├── End-to-End Edge AI MLOps Stack            
 │   ├── Data Acquisition (Sensors: Microphones, Camera, LiDAR ...)
 │   ├── Model Design (Efficiency-Aware, NAS ...)       
-│   ├── Deployment (Onnxruntime, LiteRT, AIMET, TensorRT, OpenVINO, ...)       
+│   ├── Deployment (Onnxruntime, LiteRT, TensorRT, OpenVINO, AIMET,...)       
 │   ├── Optimization (Compression: Quantization, Prunning, Distillation, Fine-Tuning )                   
 │   └── Benchmarking and Profiling (Performance-Accuracy-Power envelope)
 ├── Hardware-Software Co-design & Optimization
