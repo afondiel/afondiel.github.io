@@ -25,15 +25,15 @@ From research to production-ready real-world Edge AI and Computer Vision solutio
 │   ├── Optimization (Compression: Quantization, Prunning, Distillation, Fine-Tuning )                   
 │   └── Benchmarking and Profiling (Performance-Accuracy-Power envelope)
 ├── Hardware-Software Co-design & Optimization
-│   ├── Target Platform: Smart Devices: Smartphones, Wearable Devices 
+│   ├── Target Platform
 │   │   ├── Smart Devices: Smartphones, Wearable Devices                                                     
 │   │   └── Embedded/IoT Devices: MCUs, Raspberry Pi, NVIDIA Jetson Nano 
 │   ├── Runtime/inference engine: Onnxruntime, custom inference engines 
 │   ├── Energy/Power Consumption (OPS/W): Battery-based devices (W => mW)                                     
 │   └── AI Accelerators: Multi-CPUs, GPUs, NPUs
-└── Business Impact & Value
-    ├── ROI/TOC Modeling: Cloud vs edge inference costs                                                  
-    └── Sustainibility Impact: Energy efficiency and long-term operational cost savings
+└── Business Impact & Sustainability
+    ├── ROI Calculator: Cloud vs Edge inference cost savings                                                  
+    └── Efficiency Calculator: Energy efficiency and long-term operational cost savings
 ```
 
 ### Computer Vision
