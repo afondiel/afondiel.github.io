@@ -42,7 +42,7 @@ Get started with Edge AI through hands-on examples including practical notebooks
   </form>
 </section>
 
-### Edge AI Engineering: Technical Guide for Developers and Practitioners
+### End-to-End Edge AI Engineering Resources for Developers and Practitioners
 
 - [Edge AI Engineering Reference Guide](https://github.com/afondiel/edge-ai-engineering)
 - [Edge AI End-to-End MLOps Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/mlops)
